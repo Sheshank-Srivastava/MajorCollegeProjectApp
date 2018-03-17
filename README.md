@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/AndroidTechiesGTBIT/MajorCollegeProjectApp.svg?branch=master)](https://travis-ci.org/AndroidTechiesGTBIT/MajorCollegeProjectApp)
 # MajorProject - Android
 
 This is an Android Application to display the details of the major projects of students in their final year(CSE, IT, ECE, EEE).
@@ -14,7 +15,7 @@ When a repository is cloned, it has a default remote called `origin` that points
 
 1. Set the `upstream`:
 
-   `git remote add upstream https://github.com/systers/powerup-android.git`
+   `git remote add upstream https://github.com/AndroidTechiesGTBIT/MajorCollegeProjectApp.git`
   
 1. Run `git remote -v` to check the status, you should see something like the following:
 
