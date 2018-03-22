@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.view.View;
 
 import java.util.ArrayList;
 
@@ -24,7 +25,18 @@ public class ListPage extends AppCompatActivity {
 
 
         recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
-        listAdapter = new ListAdapter(informationModelArrayList, this);
+      //  listAdapter = new ListAdapter(informationModelArrayList, this);
+
+        listAdapter = new ListAdapter(informationModelArrayList, this, new ListAdapter.ClickListener() {
+            @Override
+            public void onItemClick(View v, int position) {
+                Intent intent = new Intent(ListPage.this, DescriptionActivity.class);
+                intent.putExtra("Information",informationModelArrayList.get(position));
+                startActivity(intent);
+
+            }
+        });
+
         RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(getApplicationContext());
         recyclerView.setLayoutManager(mLayoutManager);
         recyclerView.setItemAnimator(new DefaultItemAnimator());

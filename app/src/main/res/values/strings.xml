@@ -16,7 +16,7 @@
 
 
     <!-- these are project technology strings -->
-    <string name="techno_one">Python,OpenCV,JavaScript,HTML,CSS,Pytorch,Dlib,Tensorflow,Keras,AWS GPU Compute EC2 Machine</string>
+    <string name="techno_one">Python,OpenCV,JavaScript,HTML,CSS,Pytorch</string>
     <string name="techno_two">html, php, css, javascript, jquery</string>
     <string name="techno_three">Internet of Things, Arduino, PHP, Javascript</string>
     <string name="techno_four">Java ,html, css, jsp, javascript</string>

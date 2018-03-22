@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ListPage" />
-        <activity android:name=".HomeScreen"></activity>
+        <activity android:name=".HomeScreen" />
+        <activity android:name=".DescriptionActivity"></activity>
     </application>
 
 </manifest>
