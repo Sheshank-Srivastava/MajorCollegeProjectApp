@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.androidtechies.majorproject.MainActivity"
+    tools:context="com.example.androidtechies.majorproject.SplashScreen"
     android:orientation="vertical"
     android:background="#fcfcfc">
     <android.support.design.widget.AppBarLayout
@@ -18,7 +18,7 @@
             android:layout_width="match_parent"
             app:layout_scrollFlags="exitUntilCollapsed|scroll"
             app:contentScrim="?attr/colorPrimary"
-            app:title="My App Welcome"
+            app:title="@string/intro_one"
             app:expandedTitleMarginStart="48dp"
             app:expandedTitleMarginEnd="48dp"
 
