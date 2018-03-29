@@ -4,29 +4,119 @@
     <!--IT Data -->
 
     <string-array name="project_title_it">
-        <item>@string/title_one</item>
-        <item>@string/title_two</item>
-        <item>@string/title_three</item>
-        <item>@string/title_four</item>
+        <item>@string/title_one_it</item>
+        <item>@string/title_two_it</item>
+        <item>@string/title_three_it</item>
+        <item>@string/title_four_it</item>
 
     </string-array>
 
     <string-array name="project_introduction_it">
-        <item>@string/intro_one</item>
-        <item>@string/intro_two</item>
-        <item>@string/intro_three</item>
-        <item>@string/intro_four</item>
+        <item>@string/intro_one_it</item>
+        <item>@string/intro_two_it</item>
+        <item>@string/intro_three_it</item>
+        <item>@string/intro_four_it</item>
     </string-array>
 
     <string-array name="project_technology_used_it">
-        <item>@string/techno_one</item>
-        <item>@string/techno_two</item>
-        <item>@string/techno_three</item>
-        <item>@string/techno_four</item>
+        <item>@string/techno_one_it</item>
+        <item>@string/techno_two_it</item>
+        <item>@string/techno_three_it</item>
+        <item>@string/techno_four_it</item>
     </string-array>
 
+    <string-array name="project_module_it">
+        <item>@string/module_one_it</item>
+        <item>@string/module_two_it</item>
+        <item>@string/module_three_it</item>
+        <item>@string/module_four_it</item>
+    </string-array>
 
+    <!--&lt;!&ndash;CSE Data &ndash;&gt;-->
 
+    <!--<string-array name="project_title_cse">-->
+        <!--<item>@string/title_one_cse</item>-->
+        <!--<item>@string/title_two_cse</item>-->
+        <!--<item>@string/title_three_cse</item>-->
+        <!--<item>@string/title_four_cse</item>-->
 
+    <!--</string-array>-->
 
+    <!--<string-array name="project_introduction_cse">-->
+        <!--<item>@string/intro_one_cse</item>-->
+        <!--<item>@string/intro_two_cse</item>-->
+        <!--<item>@string/intro_three_cse</item>-->
+        <!--<item>@string/intro_four_cse</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="project_technology_used_cse">-->
+        <!--<item>@string/techno_one_cse</item>-->
+        <!--<item>@string/techno_two_cse</item>-->
+        <!--<item>@string/techno_three_cse</item>-->
+        <!--<item>@string/techno_four_cse</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="project_module_cse">-->
+        <!--<item>@string/module_one_cse</item>-->
+        <!--<item>@string/module_two_cse</item>-->
+        <!--<item>@string/module_three_cse</item>-->
+        <!--<item>@string/module_four_cse</item>-->
+    <!--</string-array>-->
+    <!--&lt;!&ndash;ECE Data &ndash;&gt;-->
+
+    <!--<string-array name="project_title_ece">-->
+        <!--<item>@string/title_one_ece</item>-->
+        <!--<item>@string/title_two_ece</item>-->
+        <!--<item>@string/title_three_ece</item>-->
+        <!--<item>@string/title_four_ece</item>-->
+
+    <!--</string-array>-->
+
+    <!--<string-array name="project_introduction_ece">-->
+        <!--<item>@string/intro_one_ece</item>-->
+        <!--<item>@string/intro_two_ece</item>-->
+        <!--<item>@string/intro_three_ece</item>-->
+        <!--<item>@string/intro_four_ece</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="project_technology_used_ece">-->
+        <!--<item>@string/techno_one_ece</item>-->
+        <!--<item>@string/techno_two_ece</item>-->
+        <!--<item>@string/techno_three_ece</item>-->
+        <!--<item>@string/techno_four_ece</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="project_module_ece">-->
+        <!--<item>@string/module_one_ece</item>-->
+        <!--<item>@string/module_two_ece</item>-->
+        <!--<item>@string/module_three_ece</item>-->
+        <!--<item>@string/module_four_ece</item>-->
+    <!--</string-array>-->
+    <!--&lt;!&ndash;EEE Data &ndash;&gt;-->
+
+    <!--<string-array name="project_title_eee">-->
+        <!--<item>@string/title_one_eee</item>-->
+        <!--<item>@string/title_two_eee</item>-->
+        <!--<item>@string/title_three_eee</item>-->
+        <!--<item>@string/title_four_eee</item>-->
+
+    <!--</string-array>-->
+
+    <!--<string-array name="project_introduction_eee">-->
+        <!--<item>@string/intro_one_eee</item>-->
+        <!--<item>@string/intro_two_eee</item>-->
+        <!--<item>@string/intro_three_eee</item>-->
+        <!--<item>@string/intro_four_eee</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="project_technology_used_eee">-->
+        <!--<item>@string/techno_one_eee</item>-->
+        <!--<item>@string/techno_two_eee</item>-->
+        <!--<item>@string/techno_three_eee</item>-->
+        <!--<item>@string/techno_four_eee</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="project_module_eee">-->
+        <!--<item>@string/module_one_eee</item>-->
+        <!--<item>@string/module_two_eee</item>-->
+        <!--<item>@string/module_three_eee</item>-->
+        <!--<item>@string/module_four_eee</item>-->
+    <!--</string-array>-->
 </resources>
