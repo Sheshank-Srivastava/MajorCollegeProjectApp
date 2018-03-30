@@ -12,10 +12,13 @@ public class InformationModel implements Parcelable {
     String introProject;
     String technologyUsed;
 
-    public InformationModel(String titleOfProject, String introProject, String technologyUsed) {
+    String modulein;
+
+    public InformationModel(String titleOfProject, String introProject, String technologyUsed, String modulein) {
         this.titleOfProject = titleOfProject;
         this.introProject = introProject;
         this.technologyUsed = technologyUsed;
+        this.modulein = modulein;
     }
 
     public String getTitleOfProject() {
@@ -42,6 +45,16 @@ public class InformationModel implements Parcelable {
         this.technologyUsed = technologyUsed;
     }
 
+
+    public String getModulein() {
+        return modulein;
+    }
+
+    public void setModulein(String modulein) {
+        this.modulein = modulein;
+    }
+
+
     @Override
     public int describeContents() {
         return 0;
@@ -52,12 +65,14 @@ public class InformationModel implements Parcelable {
         parcel.writeString(titleOfProject);
         parcel.writeString(introProject);
         parcel.writeString(technologyUsed);
+        parcel.writeString(modulein);
     }
 
     protected InformationModel(Parcel in) {
         titleOfProject = in.readString();
         introProject = in.readString();
         technologyUsed = in.readString();
+        modulein = in.readString();
     }
 
     public static final Creator<InformationModel> CREATOR = new Creator<InformationModel>() {

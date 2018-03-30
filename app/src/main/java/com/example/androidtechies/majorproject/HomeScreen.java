@@ -9,9 +9,9 @@ import android.widget.Button;
 public class HomeScreen extends AppCompatActivity {
     public static final String HomeScreenTag = "HomeScreen";
     public static final Integer cseValue = 0;
-    public static final Integer it = 0;
-    public static final Integer ece = 0;
-    public static final Integer eee = 0;
+    public static final Integer itValue = 1;
+    public static final Integer eceValue = 2;
+    public static final Integer eeeValue = 3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,24 +33,28 @@ public class HomeScreen extends AppCompatActivity {
 //        ece.setOnClickListener(new View.OnClickListener() {
 //            @Override
 //            public void onClick(View view) {
-//                Intent ece = new Intent(HomeScreen.this, ECEHomeScreen.class);
-//                startActivity(ece);
+//                Intent eceIntent = new Intent(HomeScreen.this, ListPage.class);
+//                eceIntent.putExtra(HomeScreenTag, eceValue);
+//                startActivity(eceIntent);
 //
 //            }
 //        });
 //        it.setOnClickListener(new View.OnClickListener() {
 //            @Override
 //            public void onClick(View view) {
-//                Intent it = new Intent(HomeScreen.this, ITHomeScreen.class);
-//                startActivity(it);
+//                Intent itIntent = new Intent(HomeScreen.this, ListPage.class);
+//
+//                itIntent.putExtra(HomeScreenTag, itValue);
+//                startActivity(itIntent);
 //
 //            }
 //        });
 //        eee.setOnClickListener(new View.OnClickListener() {
 //            @Override
 //            public void onClick(View view) {
-//                Intent eee = new Intent(HomeScreen.this, EEEHomeScreen.class);
-//                startActivity(eee);
+//                Intent eeeIntent = new Intent(HomeScreen.this, ListPage.class);
+//                eeeIntent.putExtra(HomeScreenTag,eeeValue);
+//                startActivity(eeeIntent);
 //
 //            }
 //        });

@@ -79,16 +79,17 @@
 
     <!-- These are module details of string-->
     <string name="module_one_it">
-        1. site vs site: It allows you to analyse your business search engine competition to get the most on internet investment
-        2. Pdf Report Generation: Download seo pdf to easy and reliable offline access to your search engine insights
-        3. Share: You can share your seo scores on various social media platforms
-        4. Keyword consistency: allows you to analyse your webpage as per their keyword concentration
-        5. Usability testing: analyse user behaviour as per the search engine standards
-        6. Compare Domains Individually: Get instant compare analysis when you are done analysing a single domain without heading back to site vs site page
-        7. Broken Links Analysis: Broken links send users to non-existing web pages. They are bad for your site's usability, reputation and SEO.
-        8. Social Login: Allows user to login via facebook, twitter and g+
-        9. Multi-Language Support: Allows website to used in multiple language forms
-        10. Indexed Page Checker: Checks how many pages are indexed in the search engine database
+
+        1. site vs site: It allows you to analyse your business search engine competition to get the most on internet investment \n
+        2. Pdf Report Generation: Download seo pdf to easy and reliable offline access to your search engine insights\n
+        3. Share: You can share your seo scores on various social media platforms\n
+        4. Keyword consistency: allows you to analyse your webpage as per their keyword concentration\n
+        5. Usability testing: analyse user behaviour as per the search engine standards\n
+        6. Compare Domains Individually: Get instant compare analysis when you are done analysing a single domain without heading back to site vs site page\n
+        7. Broken Links Analysis: Broken links send users to non-existing web pages. They are bad for your site's usability, reputation and SEO.\n
+        8. Social Login: Allows user to login via facebook, twitter and g+\n
+        9. Multi-Language Support: Allows website to used in multiple language forms\n
+        10. Indexed Page Checker: Checks how many pages are indexed in the search engine database\n
 
     </string>
     <string name="module_two_it">Analyst</string>
