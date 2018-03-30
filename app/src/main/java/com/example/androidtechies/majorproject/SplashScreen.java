@@ -25,7 +25,11 @@ private ImageView imageView;
         Thread timer = new Thread(){
             public void run(){
                 try {
+<<<<<<< HEAD
                     sleep(1000);
+=======
+                    sleep(5000);
+>>>>>>> 410389ff97e9d50f3246ef333c98e2167f3c0e4a
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

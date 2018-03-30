@@ -61,8 +61,9 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.MyViewHolder> 
         }
     }
 
-public interface ClickListener {
-    void onItemClick(View v, int position);
 
-}
+    public interface ClickListener {
+        void onItemClick(View v, int position);
+
+    }
 }

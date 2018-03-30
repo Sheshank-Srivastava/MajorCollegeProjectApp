@@ -12,10 +12,16 @@
         android:id="@+id/cseTag"
         android:layout_width="110dp"
         android:layout_height="110dp"
+<<<<<<< HEAD
         android:text="cse"
         android:layout_marginLeft="50dp"
         android:layout_marginTop="200dp"
         android:background="@color/colorPrimaryDark"
+=======
+        android:background="@drawable/csef"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="200dp"
+>>>>>>> 410389ff97e9d50f3246ef333c98e2167f3c0e4a
         android:rotation="-45"
         android:textSize="20sp"/>
     <Button
@@ -24,16 +30,24 @@
         android:layout_height="110dp"
         android:layout_marginLeft="140dp"
         android:layout_marginTop="110dp"
+<<<<<<< HEAD
         android:text="ece"
         android:background="@color/colorPrimaryDark"
+=======
+        android:background="@drawable/ecef"
+>>>>>>> 410389ff97e9d50f3246ef333c98e2167f3c0e4a
         android:rotation="-45"
         android:textSize="20sp"/>
     <Button
         android:id="@+id/itTag"
         android:layout_width="110dp"
         android:layout_height="110dp"
+<<<<<<< HEAD
         android:text="it"
         android:background="@color/colorPrimaryDark"
+=======
+        android:background="@drawable/itf"
+>>>>>>> 410389ff97e9d50f3246ef333c98e2167f3c0e4a
         android:layout_marginLeft="230dp"
         android:layout_marginTop="200dp"
         android:rotation="-45"
@@ -41,8 +55,12 @@
     <Button
         android:id="@+id/eeeTag"
         android:layout_width="110dp"
+<<<<<<< HEAD
         android:text="eee"
         android:background="@color/colorPrimaryDark"
+=======
+        android:background="@drawable/eeef"
+>>>>>>> 410389ff97e9d50f3246ef333c98e2167f3c0e4a
         android:layout_height="110dp"
         android:layout_marginLeft="140dp"
         android:layout_marginTop="290dp"

@@ -12,6 +12,7 @@ public class InformationModel implements Parcelable {
     String introProject;
     String technologyUsed;
 
+<<<<<<< HEAD
     String modulein;
 
     public InformationModel(String titleOfProject, String introProject, String technologyUsed, String modulein) {
@@ -19,6 +20,12 @@ public class InformationModel implements Parcelable {
         this.introProject = introProject;
         this.technologyUsed = technologyUsed;
         this.modulein = modulein;
+=======
+    public InformationModel(String titleOfProject, String introProject, String technologyUsed) {
+        this.titleOfProject = titleOfProject;
+        this.introProject = introProject;
+        this.technologyUsed = technologyUsed;
+>>>>>>> 410389ff97e9d50f3246ef333c98e2167f3c0e4a
     }
 
     public String getTitleOfProject() {
@@ -45,6 +52,7 @@ public class InformationModel implements Parcelable {
         this.technologyUsed = technologyUsed;
     }
 
+<<<<<<< HEAD
 
     public String getModulein() {
         return modulein;
@@ -58,6 +66,11 @@ public class InformationModel implements Parcelable {
     @Override
     public int describeContents() {
         return 0;
+=======
+    @Override
+    public int describeContents() {
+        return hashCode();
+>>>>>>> 410389ff97e9d50f3246ef333c98e2167f3c0e4a
     }
 
     @Override
@@ -65,17 +78,26 @@ public class InformationModel implements Parcelable {
         parcel.writeString(titleOfProject);
         parcel.writeString(introProject);
         parcel.writeString(technologyUsed);
+<<<<<<< HEAD
         parcel.writeString(modulein);
+=======
+>>>>>>> 410389ff97e9d50f3246ef333c98e2167f3c0e4a
     }
 
     protected InformationModel(Parcel in) {
         titleOfProject = in.readString();
         introProject = in.readString();
         technologyUsed = in.readString();
+<<<<<<< HEAD
         modulein = in.readString();
     }
 
     public static final Creator<InformationModel> CREATOR = new Creator<InformationModel>() {
+=======
+    }
+
+    public static final Parcelable.Creator<InformationModel> CREATOR = new Parcelable.Creator<InformationModel>() {
+>>>>>>> 410389ff97e9d50f3246ef333c98e2167f3c0e4a
         @Override
         public InformationModel createFromParcel(Parcel in) {
             return new InformationModel(in);
@@ -83,7 +105,11 @@ public class InformationModel implements Parcelable {
 
         @Override
         public InformationModel[] newArray(int size) {
+<<<<<<< HEAD
             return new InformationModel[size];
+=======
+            return new InformationModel[0];
+>>>>>>> 410389ff97e9d50f3246ef333c98e2167f3c0e4a
         }
     };
 

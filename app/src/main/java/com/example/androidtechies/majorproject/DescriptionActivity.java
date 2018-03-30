@@ -1,30 +1,40 @@
 package com.example.androidtechies.majorproject;
 
 import android.content.Intent;
+import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
+
 public class DescriptionActivity extends AppCompatActivity {
-    TextView introTextView, technologyUsed, titleTextView;
-    CollapsingToolbarLayout toolbarLayout;
+
+    @BindView(R.id.intro_brief)
+    TextView introDescription;
+    @BindView(R.id.tech_brief)
+    TextView techDescription;
+    @BindView(R.id.collapsingtoolbar)
+    CollapsingToolbarLayout cToolBar;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.description);
-//        introTextView = findViewById(R.id.intro_brief);
-//        technologyUsed = findViewById(R.id.tech_brief);
-//        //titleTextView = findViewById(R.id.)
-//
+
+        ButterKnife.bind(this);
+
         Intent intent = getIntent();
         InformationModel model = intent.getParcelableExtra("Information");
-//        introTextView.setText(model.getIntroProject());
-//        technologyUsed.setText(model.getTechnologyUsed());
-//        toolbarLayout.setTitle(model.getTitleOfProject());
-
-        Log.d("description", model.getTitleOfProject());
+        String title = model.getTitleOfProject();
+        String intro = model.getIntroProject();
+        String tech = model.getTechnologyUsed();
+        Log.d("Information", title+ " 2 "+intro+ " 3 "+tech);
+        introDescription.setText(intro);
+        techDescription.setText(tech);
+        cToolBar.setTitle(title);
 
     }
 }

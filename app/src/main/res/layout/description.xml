@@ -20,10 +20,10 @@
             android:layout_height="match_parent"
             android:background="@drawable/testimage"
             app:contentScrim="?attr/colorPrimary"
-            app:title="@string/app_name"
-            app:expandedTitleMarginEnd="48dp"
-            app:expandedTitleMarginStart="48dp"
 
+            app:title="@string/intro_one_it"
+            app:expandedTitleMarginStart="48dp"
+            app:expandedTitleMarginEnd="48dp"
             app:layout_scrollFlags="exitUntilCollapsed|scroll">
 
             <android.support.v7.widget.Toolbar
@@ -106,9 +106,8 @@
                     android:text="@string/module_one_it"
                     android:layout_marginTop="5dp"
                     />
-
-
             </LinearLayout>
+
 
         </android.support.v4.widget.NestedScrollView>
 

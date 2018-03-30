@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">Major project</string>
 
 
@@ -64,6 +65,7 @@
         from any internet enabled device and in order to provide fast delivery of any emergency action.
         The major aim of this project is to demonstrate the effectiveness of an IOT based system in increasing the
         security, minimizing the power consumption, providing real time analysis and providing remote access to the
+
         physical system of the industrial setup using an alternate source of energy.
     </string>
     <string name="intro_four_it">Market Basket Analysis is a modelling technique based upon the theory that if you buy a
@@ -79,7 +81,22 @@
 
     <!-- These are module details of string-->
     <string name="module_one_it">
-
+        1.	ResNet34 Training Module:-
+        This module uses a ResNet34 architecture to train on the 68 point facial landmark detection dataset.
+        2.	Data Generation Module:-
+        This module is used to generate data from an incoming video file.
+        3.	Generator Network Module:-
+        This module is used to make the generator neural network.
+        4.	Discriminator Network Module:-
+        This module is used to make the discriminator neural network.
+        5.	Pix2pix Module:-
+        This module intakes the different architectures and then combines them to form the pix2pix architecture.
+        6.	API Views:-
+        Module that contains API Backend views
+        7.	Static Files:-
+        Module that contains static files of API (frontend)
+    </string>
+    <string name="module_two_it">
         1. site vs site: It allows you to analyse your business search engine competition to get the most on internet investment \n
         2. Pdf Report Generation: Download seo pdf to easy and reliable offline access to your search engine insights\n
         3. Share: You can share your seo scores on various social media platforms\n
@@ -89,10 +106,21 @@
         7. Broken Links Analysis: Broken links send users to non-existing web pages. They are bad for your site's usability, reputation and SEO.\n
         8. Social Login: Allows user to login via facebook, twitter and g+\n
         9. Multi-Language Support: Allows website to used in multiple language forms\n
-        10. Indexed Page Checker: Checks how many pages are indexed in the search engine database\n
-
+        10. Indexed Page Checker: Checks how many pages are indexed in the search engine database\n</string>
+    <string name="module_three_it">
+        1.	Motor Module: This module comprises of four motors along with four LEDs which indicate their ON/OFF status .One pair of motors is temperature-dependent while the other is time- dependent. The working of temperature dependent motors alternates on the basis of increasing temperatures measured using temperature sensors. While the load share of time dependent motors alternates between the main and auxiliary motor with time.
+        2.	Lighting Module: The second module comprises of three LDRs (Light Dependent Resistors: whose functioning depends on the incident light intensity) and eight LEDs. The LEDs adjust their brightness based on the intensity of the natural light coming from the window that is sensed by the LDRs so that the plant is always well lit and thus providing an increased efficiency.
+        3.	Secure Room Module: This module constitutes of a proximity sensor, servo motor, and a fingerprint sensor lock mechanism. The primary function of the module revolves around automatic door opening mechanism using the above mentioned devices. The proximity sensor helps to judge the presence of a person near the door while the fingerprint sensor uses the fingerprint pattern which is unique, to detect whether the person is authenticated to enter the premises of the secure room or not.
+        4.	Smoke Sensing Module and Website: There is also a smoke sensor which senses smoke in case of a fire and alerts the industry staff through piezoelectric buzzer and sending an SMS and a notification in the UI as well. The various modules of the project are interconnected via the BOLT cloud to a Web Application accessible only via OTP protected login page. A fully functional admin control panel gives the admin functionality of shifting from an automatic mode to manual mode and control each hardware part separately.
     </string>
-    <string name="module_two_it">Analyst</string>
-    <string name="module_three_it">Autonmont</string>
-    <string name="module_four_it">Market BASKET ANALYSIS</string>
+    <string name="module_four_it">•	Email alert
+        1.	Login
+        2.	Logout
+        3.	Database connectivity
+        4.	Data Mining
+        5.	Data Analysis
+        6.	Data processing
+        7.	Data Tracking
+    </string>
+
 </resources>

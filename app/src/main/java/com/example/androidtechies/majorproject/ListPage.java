@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+
+import android.util.Log;
 import android.view.View;
 
 import java.util.ArrayList;
@@ -47,6 +49,7 @@ public class ListPage extends AppCompatActivity {
 
     private ArrayList<InformationModel> createFakeData(int value) {
         ArrayList<InformationModel> arrayList = new ArrayList<>();
+
         InformationModel model;
         int length;
         switch (value){
@@ -112,6 +115,7 @@ public class ListPage extends AppCompatActivity {
 //                    arrayList.add(model);
 //                }
             break;
+
 
 
         }
