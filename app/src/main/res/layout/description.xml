@@ -36,14 +36,11 @@
         </android.support.design.widget.CollapsingToolbarLayout>
 
     </android.support.design.widget.AppBarLayout>
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/appbar">
+
         <android.support.v4.widget.NestedScrollView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-
+            android:layout_below="@+id/appbar"
             app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
             <LinearLayout
@@ -111,5 +108,4 @@
 
         </android.support.v4.widget.NestedScrollView>
 
-    </ScrollView>
 </RelativeLayout>

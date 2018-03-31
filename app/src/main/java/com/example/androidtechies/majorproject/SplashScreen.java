@@ -2,6 +2,7 @@ package com.example.androidtechies.majorproject;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.animation.Animation;
@@ -21,23 +22,13 @@ private ImageView imageView;
         Animation myanim = AnimationUtils.loadAnimation(this,R.anim.mytransition);
         textView.startAnimation(myanim);
         imageView.startAnimation(myanim);
-        final Intent branch = new Intent(this,HomeScreen.class);
-        Thread timer = new Thread(){
-            public void run(){
-                try {
-
-                    sleep(1000);
-
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-                finally {
-                    startActivity(branch);
-                    finish();
-                }
+        Handler splash = new Handler();
+        splash.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                Intent branch = new Intent(SplashScreen.this,HomeScreen.class);
             }
-        };
-        timer.start();
+        },1000);
     }
 
 }
