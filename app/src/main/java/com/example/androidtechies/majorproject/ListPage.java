@@ -26,7 +26,7 @@ public class ListPage extends AppCompatActivity {
         informationModelArrayList = createFakeData(value);
 
 
-        recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
+        recyclerView = findViewById(R.id.recyclerView);
       //  listAdapter = new ListAdapter(informationModelArrayList, this);
 
         listAdapter = new ListAdapter(informationModelArrayList, this, new ListAdapter.ClickListener() {

@@ -18,6 +18,8 @@ public class DescriptionActivity extends AppCompatActivity {
     TextView techDescription;
     @BindView(R.id.collapsingtoolbar)
     CollapsingToolbarLayout cToolBar;
+    @BindView(R.id.projectModule)
+    TextView modulein;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,10 +33,13 @@ public class DescriptionActivity extends AppCompatActivity {
         String title = model.getTitleOfProject();
         String intro = model.getIntroProject();
         String tech = model.getTechnologyUsed();
+        String module = model.getModulein();
         Log.d("Information", title+ " 2 "+intro+ " 3 "+tech);
         introDescription.setText(intro);
         techDescription.setText(tech);
+        modulein.setText(module);
         cToolBar.setTitle(title);
+
 
     }
 }
