@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.widget.TextView;
 
@@ -36,8 +37,11 @@ public class DescriptionActivity extends AppCompatActivity {
         String module = model.getModulein();
         Log.d("Information", title+ " 2 "+intro+ " 3 "+tech);
         introDescription.setText(intro);
+        introDescription.setTextSize(20f);
         techDescription.setText(tech);
+        techDescription.setTextSize(20f);
         modulein.setText(module);
+        modulein.setTextSize(20f);
         cToolBar.setTitle(title);
 
 

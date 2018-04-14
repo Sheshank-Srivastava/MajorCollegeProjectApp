@@ -9,6 +9,22 @@
         <item>@string/title_two_it</item>
         <item>@string/title_three_it</item>
         <item>@string/title_four_it</item>
+        <item>@string/title_five_it</item>
+        <item>@string/title_six_it</item>
+        <item>@string/title_seven_it</item>
+        <item>@string/title_eight_it</item>
+        <item>@string/title_nine_it</item>
+        <item>@string/title_ten_it</item>
+        <item>@string/title_eleven_it</item>
+        <item>@string/title_twelve_it</item>
+        <item>@string/title_thirteen_it</item>
+        <item>@string/title_fourteen_it</item>
+        <item>@string/title_fifteen_it</item>
+        <item>@string/title_sixteen_it</item>
+        <item>@string/title_seventeen_it</item>
+        <item>@string/title_eighteen_it</item>
+
+
 
     </string-array>
 
@@ -17,6 +33,20 @@
         <item>@string/intro_two_it</item>
         <item>@string/intro_three_it</item>
         <item>@string/intro_four_it</item>
+        <item>@string/intro_five_it</item>
+        <item>@string/intro_six_it</item>
+        <item>@string/intro_seven_it</item>
+        <item>@string/intro_eight_it</item>
+        <item>@string/intro_nine_it</item>
+        <item>@string/intro_ten_it</item>
+        <item>@string/intro_eleven_it</item>
+        <item>@string/intro_twelve_it</item>
+        <item>@string/intro_thirteen_it</item>
+        <item>@string/intro_fourteen_it</item>
+        <item>@string/intro_fifteen_it</item>
+        <item>@string/intro_sixteen_it</item>
+        <item>@string/intro_seventeen_it</item>
+        <item>@string/intro_eighteen_it</item>
     </string-array>
 
     <string-array name="project_technology_used_it">
@@ -24,12 +54,40 @@
         <item>@string/techno_two_it</item>
         <item>@string/techno_three_it</item>
         <item>@string/techno_four_it</item>
+        <item>@string/techno_five_it</item>
+        <item>@string/techno_six_it</item>
+        <item>@string/techno_seven_it</item>
+        <item>@string/techno_eight_it</item>
+        <item>@string/techno_nine_it</item>
+        <item>@string/techno_ten_it</item>
+        <item>@string/techno_eleven_it</item>
+        <item>@string/techno_twelve_it</item>
+        <item>@string/techno_thirteen_it</item>
+        <item>@string/techno_fourteen_it</item>
+        <item>@string/techno_fifteen_it</item>
+        <item>@string/techno_sixteen_it</item>
+        <item>@string/techno_seventeen_it</item>
+        <item>@string/techno_eighteen_it</item>
     </string-array>
     <string-array name="project_module_it">
         <item>@string/module_one_it</item>
         <item>@string/module_two_it</item>
         <item>@string/module_three_it</item>
         <item>@string/module_four_it</item>
+        <item>@string/module_five_it</item>
+        <item>@string/module_six_it</item>
+        <item>@string/module_seven_it</item>
+        <item>@string/module_eight_it</item>
+        <item>@string/module_nine_it</item>
+        <item>@string/module_ten_it</item>
+        <item>@string/module_eleven_it</item>
+        <item>@string/module_twelve_it</item>
+        <item>@string/module_thirteen_it</item>
+        <item>@string/module_fourteen_it</item>
+        <item>@string/module_fifteen_it</item>
+        <item>@string/module_sixteen_it</item>
+        <item>@string/module_seventeen_it</item>
+        <item>@string/module_eighteen_it</item>
     </string-array>
 
 

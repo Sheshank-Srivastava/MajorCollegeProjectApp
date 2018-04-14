@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,104 +8,77 @@
     tools:context="com.example.androidtechies.majorproject.SplashScreen"
     android:orientation="vertical"
     android:background="#fcfcfc">
-    <android.support.design.widget.AppBarLayout
-        android:id="@+id/appbar"
+    <include layout="@layout/collaptoolbar"/>
+    <android.support.v4.widget.NestedScrollView
         android:layout_width="match_parent"
-        android:layout_height="250dp"
-        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        android:layout_height="match_parent"
 
-        <android.support.design.widget.CollapsingToolbarLayout
-            android:id="@+id/collapsingtoolbar"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@drawable/testimage"
-            app:contentScrim="?attr/colorPrimary"
+            android:orientation="vertical"
+            >
+            <!-- For Defining introduction -->
+            <TextView
 
-            app:title="@string/intro_one_it"
-            app:expandedTitleMarginStart="48dp"
-            app:expandedTitleMarginEnd="48dp"
-            app:layout_scrollFlags="exitUntilCollapsed|scroll">
-
-            <android.support.v7.widget.Toolbar
-                android:id="@+id/toolbarid"
                 android:layout_width="match_parent"
-                android:layout_height="?attr/actionBarSize"
-                app:layout_collapseMode="pin"
-                app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+                android:layout_height="wrap_content"
+                android:text="@string/introduction"
 
-        </android.support.design.widget.CollapsingToolbarLayout>
-
-    </android.support.design.widget.AppBarLayout>
-
-        <android.support.v4.widget.NestedScrollView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_below="@+id/appbar"
-            app:layout_behavior="@string/appbar_scrolling_view_behavior">
-
-            <LinearLayout
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"/>
+            <TextView
+                android:id="@+id/intro_brief"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="vertical"
-                >
-                <!-- For Defining introduction -->
-                <TextView
+                android:layout_height="wrap_content"
 
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="@string/introduction"
+                android:text="@string/intro_one_it"
+                android:textColor="@color/secondary_text"
+                android:layout_marginTop="5dp"
+                />
+            <!-- For Defining technology -->
+            <TextView
 
-                    android:textSize="25sp"
-                    android:textStyle="bold"
-                    android:textColor="@android:color/black"/>
-                <TextView
-                    android:id="@+id/intro_brief"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/technology_used"
+                android:textSize="25sp"
 
-                    android:text="@string/intro_one_it"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"/>
+            <TextView
+                android:id="@+id/tech_brief"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/secondary_text"
+                android:text="@string/techno_one_it"
+                android:layout_marginTop="5dp"
+                />
+            <!--Working Module name-->
+            <TextView
 
-                    android:layout_marginTop="5dp"
-                    />
-                <!-- For Defining technology -->
-                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/working_module"
+                android:textSize="25sp"
 
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="@string/technology_used"
-                    android:textSize="25sp"
-
-                    android:textStyle="bold"
-                    android:textColor="@android:color/black"/>
-                <TextView
-                    android:id="@+id/tech_brief"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-
-                    android:text="@string/techno_one_it"
-                    android:layout_marginTop="5dp"
-                    />
-                <!--Working Module name-->
-                <TextView
-
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="@string/working_module"
-                    android:textSize="25sp"
-
-                    android:textStyle="bold"
-                    android:textColor="@android:color/black"/>
-                <TextView
-                    android:id="@+id/projectModule"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-
-                    android:text="@string/module_one_it"
-                    android:layout_marginTop="5dp"
-                    />
-            </LinearLayout>
+                android:textStyle="bold"
+                android:textColor="@android:color/black"/>
+            <TextView
+                android:id="@+id/projectModule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/secondary_text"
+                android:text="@string/module_one_it"
+                android:layout_marginTop="5dp"
+                />
+        </LinearLayout>
 
 
-        </android.support.v4.widget.NestedScrollView>
+    </android.support.v4.widget.NestedScrollView>
 
-</RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>
+

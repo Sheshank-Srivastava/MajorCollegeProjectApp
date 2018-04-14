@@ -7,20 +7,105 @@
     <string name="introduction">IntroDuction</string>
     <string name="technology_used">Technology used</string>
     <string name="working_module">Module</string>
-
-
+    <string name="footer">Developed by <b>"android TECHIES"</b> OF GTBIT</string>
+    <!--Stream Name-->
+    <string name="it">IT</string>
+    <string name="cse">CSE</string>
+    <string name="ece">ECE</string>
+    <string name="eee">EEE</string>
     <!-- these are project title strings -->
     <string name="title_one_it">Hinton</string>
     <string name="title_two_it">Analyst</string>
     <string name="title_three_it">Autonmont</string>
     <string name="title_four_it">Market BASKET ANALYSIS</string>
+    <string name="title_five_it">Lambee: 3D Navigation of the Web</string>
+    <string name="title_six_it">AutoPass (Toll tax collection system)</string>
+    <string name="title_seven_it">Porto Serugo’s Safe Driver Predition</string>
+    <string name="title_eight_it">Smart Garbage Monitoring System using Internet of Things(IOT)</string>
+    <string name="title_nine_it">Biometric authentication</string>
+    <string name="title_ten_it">Web Scrapping and CTR Score Analysis</string>
+    <string name="title_eleven_it">Coding Ground</string>
+    <string name="title_twelve_it">Remote Vehicle Monitoring System</string>
+    <string name="title_thirteen_it">RETAIL DATA ANYLYSIS USING HADOOP</string>
+    <string name="title_fourteen_it">IOT based Patient Health Monitoring System and Smart Medicine Box</string>
+    <string name="title_fifteen_it">Smart Automated irrigation system</string>
+    <string name="title_sixteen_it">Smart Card System Using RFID Tags</string>
+    <string name="title_seventeen_it">STEGANOGRAPHY</string>
+    <string name="title_eighteen_it">Enhancing security of image and text </string>
+
+
 
 
     <!-- these are project technology strings -->
-    <string name="techno_one_it">Python,OpenCV,JavaScript,HTML,CSS,Pytorch</string>
-    <string name="techno_two_it">html, php, css, javascript, jquery</string>
-    <string name="techno_three_it">Internet of Things, Arduino, PHP, Javascript</string>
-    <string name="techno_four_it">Java ,html, css, jsp, javascript</string>
+    <string name="techno_one_it">
+        Python,OpenCV,JavaScript,HTML,CSS,Pytorch
+    </string>
+    <string name="techno_two_it">
+        html, php, css, javascript, jquery
+    </string>
+    <string name="techno_three_it">
+        Internet of Things, Arduino, PHP, Javascript
+    </string>
+    <string name="techno_four_it">
+        Java ,html, css, jsp, javascript
+    </string>
+    <string name="techno_five_it">ML + CV: Python\n
+            Backend: Python + JS\n
+            (Platform)
+            ML: Keras + Tensorflow\n
+            CV: OpenCV\n
+            Web: Socket.io + ScoketProgramming\n
+    </string>
+    <string name="techno_six_it">
+        Android , JSP , MySQL
+    </string>
+    <string name="techno_seven_it">
+        R, R-studio
+    </string>
+    <string name="techno_eight_it">
+        Software- Arduino IDE, Blynk, LuaTool\n
+        Hardware- NodeMCU, Jumper wires, 2x AA Batteries,Ultrasonic Sensor, Plastic container
+    </string>
+    <string name="techno_nine_it">
+        Operating System :
+        Window 2000, XP\n
+        Presentation layer : Java,
+        Servlets, JSP\n
+        Database : My SQL\n
+        Documentation Tool :Ms
+        Office\n
+    </string>
+    <string name="techno_ten_it">
+        PHP, HTML, CSS, Javascript and SQL
+    </string>
+    <string name="techno_eleven_it">
+        Java, JSP,HTML,SQL</string>
+    <string name="techno_twelve_it">
+         Python
+    </string>
+    <string name="techno_thirteen_it">
+         Hadoop , Hive , Pig , Sqoop
+    </string>
+    <string name="techno_fourteen_it">
+        Embedded C,
+Amazon web service
+
+    </string>
+    <string name="techno_fifteen_it">
+        Language used Embedded C, Java and SQL.\n
+Platform used Arduino Uno IDE, Android Studio, SQLite, Thingspeak (Cloud based platform)
+
+    </string>
+    <string name="techno_sixteen_it">
+        A Java based desktop application which will provide user interface to interact with the client using RFID tags which is nothing but a unique card containing electronically stored information that is assigned to the student and the same system is used to store and process student related information using RFID tags via scanning these tags.
+    </string>
+    <string name="techno_seventeen_it">
+        MATLAB
+    </string>
+    <string name="techno_eighteen_it">
+        Java
+    </string>
+
 
 
     <!--these are project team members strings-->
@@ -78,40 +163,160 @@
         customers purchase together.  It takes its name from the idea of customers throwing all their purchases into a
         shopping cart (a "market basket") during grocery shopping.
     </string>
+    <string name="intro_five_it">
+With Project Lambee, we make use of the cheapest interaction tool available to mankind, hands. Making use of advanced Computer Vision Techniques and integrating them with Machine Learning and Deep Learning techniques we can extract meaning out of the normal hand gestures and patterns. Normal hand waves, for example, indicate navigation to either of the directions. Up, down, left, right navigation can be achieved by respective gestures by the index finger, download on the other hand can be achieved by the action of clinching of a fist, zooming via pinch etc.
+</string>
+    <string name="intro_six_it">
+        In today’s era of technology, where machines are being extensively used in all the fields we
+        are trying to emulate concept, which will be of great use in public transport systems.
+        In order to decrease this traffic, we decided to work on the construction of a project which
+        reduces the manual work and hence increases the vehicle speed passing by the toll booth This
+        will increase the speed of the passing by vehicles allowing them to pass through the booth
+        without stopping and also will reduce the manual work and as a result reducing the traffic
+        gathering at the toll collecting booths. In our project, we have a vehicle equipped with the
+        application (user), an admin maintaing all the necessary details and a system at the toll station.
+        Whenever the vehicle enters into the coverage area of toll, it scans the car number using OCR,
+        and maps all the details stored in the database relating to that particular vehicle.
+        The in charge at the toll station realises  whether  the toll is payed earlier through the virtual wallet ,
+        and if not, it can pay the toll at that instant instead.
+        If the toll is already paid , the vehicle can automatically pass and doesn’t need to stop at the gate.
+        Therefore, it reduces the traffic by reducing the turnaround  time of every user.
+    </string>
+    <string name="intro_seven_it">
+        This is an extensive Exploratory Data Analysis for the Porto Seguro’s Safe Driver Prediction competition within the R environment of the tidyverse and ggplot2. We will visualise all the different data features, their relation to the target variable, explore multi-parameter interactions, and perform feature engineering. The aim of this challenge is to predict the probability whether a driver will make an insurance claim, with the purpose of providing a fairer insurance cost on the basis of individual driving habits.
+    </string>
+    <string name="intro_eight_it">
+        One of the main concerns with our environment has been solid waste management which
+        involves the detection, monitoring and management of wastes. We have proposed a method
+        of smart garbage monitoring in which waste management is automated by using ‘Internet of
+        Things(IOT)’. It was observed that the garbage truck used to go around the town to collect
+        solid waste twice a day. Although this system was thorough, it was very inefficient. For
+        example, let say street A is a busy street and we see that the garbage fills up really fast
+        whereas maybe street B even after two days the bin is not even half full. So, our goal was to
+        optimise the routes taken by the trash collectors so as to plan their daily/weekly pick up
+        schedule which in turn would increase fuel efficiency.The system monitors the garbage bins
+        and informs about the level of garbage collected in the garbage bins via an android app at
+        any time. Using that data we can then optimize waste collection routes and ultimately reduce
+        fuel consumption.The highly filled garbage bins will be covered first followed by the others
+        depending on the amount of garbage in the bin.
+    </string>
+    <string name="intro_nine_it">
+            The candidate details are
+            collected in the database.
+            Each record is identified by
+            the candidateʼsfinger print
+            and the respective personal
+            details are stored in the
+            database. This database is
+            then used for authenticating
+            the candidate.
+            In biometric finger print
+            identification a scanner is
+            used to get the image of the
+            A.
+            finger. When a user places
+            his or her finger on the
+            terminals of scanner, the
+            image is electronically
+            read,analysed and
+            compared with a previously
+            recorded image of the same
+            finger, which has been
+            stored in finger scan data
+            base. After the candidate
+            has been authenticated, he
+            is taken to a window where
+            he can casthis vote to the
+            preferred candidate.The
+            vote count for each
+            candidate is then generated
+            with the help of association
+            rules and NaïveBayes data
+            mining algorithms.This helps
+            to draw results of the voting
+            in a easy,secure and hasslefree
+            manner.
+    </string>
+    <string name="intro_ten_it">
+        CTR Score Analysis, CTR stands for “Click Through Rate”, Average CTR (or average click-through rate) is the ratio of ad clicks to impressions in our AdWords campaigns. Also, the ratio of clicks to impressions on our site links ranked on google after Search Engine Optimisation. While basic CTR measures the rate of clicks on each ad, average CTR calculates the amount of clicks vs. impressions across your campaign, or for each individual keyword. Extending it to the analysis of Meta Titles and Meta Descriptions, the end product will be a complete tool for analysis of how proficient your website is, using the traditional web scrapping method.
+    </string>
+    <string name="intro_eleven_it">
+        The Main Aim of this Project is to generate a platform for students and teachers, to code , compile and execute Programs online . In Existing System , Compilation is an Offline Process. A sufficient amount of memory is utilized in the host machine as the Java Development Kit need to be installed in the host machine. We can compile and run our java program online.
+    </string>
+    <string name="intro_twelve_it">
+        With the emerging technological innovations, users are looking for automotive system than the manually operated system. As the number of vehicle users increased, the number of thefts is increasing. Due to a convergence of multiple technologies usage of Internet evolved in the field of networking, which helps objects to be sensed and controlled remotely. Pi based Vehicle Monitoring System is used for tracking and controlling over internet uses mobile or computer device to monitor, track, and control the vehicle. This project is also aimed to monitor the driver activity through the internet from anywhere around the world by the owner of the vehicle. The owner can monitor the different sensors in the vehicle and can also keep track of the vehicle using GPS in the system and can store these data. The entire activities of the sensors are controlled by the Raspberry Pi which acts as a master controller.
+    </string>
+    <string name="intro_thirteen_it">
+        The volume, variety, and velocity of data being produced in all areas of the retail industry is growing exponentially, creating both challenges and opportunities for those diligently analyzing this data to gain a competitive advantage. Although retailers have been using data analytics to generate business intelligence for years, the extreme composition of today’s data necessitates new approaches and tools. This is because the retail industry has entered the big data era, having access to more information that can be used to create amazing shopping experiences and forge tighter connections between customers, brands, and retailers. A trail of data follows products as they are manufactured, shipped, stocked, advertised, purchased, consumed, and talked about by consumers – all of which can help forward-thinking retailers increase sales and operations performance. This requires an end-to-end retail analytics solution capable of analyzing large datasets populated by retail systems and sensors, enterprise resource planning (ERP), inventory control, social media, and other sources Hadoop is an open-source framework that allows to store and process big data in a distributed environment across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Due to the advent of new technologies, devices, and communication means like social networking sites, the amount of data produced by mankind is growing rapidly every year. The amount of data produced by us from the beginning of time till 2003 was 5 billion gigabytes. If you pile up the data in the form of disks it may fill an entire football field. The same amount was created in every two days in 2011, and in every ten minutes in 2013. This rate is still growing enormously. Though all this information produced is meaningful and can be useful when processed, it is being neglected.
+    </string>
+    <string name="intro_fourteen_it">
+        This project gives us the opportunity for the development of a microcontroller based system for wireless heartbeat and temperature monitoring using Wi-Fi module along with a smart medicine box system. By this we can easily provide real time information available for many users and can send them alert in critical conditions over internet. In India, many patients are dying because of heart attacks along with several other causes and the reason behind this factor is that they are not getting proper help during the after-operation and treatment period. To give them timely and proper help first we want continuous monitoring of patient health. The fixed monitoring system can be used only when the patient is lying on bed and these systems are huge and only available in the hospitals in ICU. The system is developed for home use by patients that are not in a critical condition but need to be timely monitored by doctor or family. In any critical condition the SMS is sent to the doctor or any family member. So that we can easily save many lives by providing them quick service. With the development of world, Health monitoring system is used every field such as hospital, home care unit, sports, etc. This Patient Monitoring System could be used for patients with chronicle diseases who have daily check-up regime. There are various instruments available in market to keep track on internal body changes but there are many limits in maintenance part due to their heavy cost, size of instruments and mobility of patients.
+    </string>
+    <string name="intro_fifteen_it">
+        This project deals with the problem incurred in fields due to manual farming methods. It promises a remote access and real time monitoring. In this we have connected sensors to check the exact moisture condition of soil and weather accordingly irrigate the crops. The android app gives farmer the access to the system even while sitting remotely and control the system, he can turn it on/off anytime just by a click on his phone. A WiFi module is used to link the analog signals to digital data. The sensed data is then mapped to a website that stores and retrieves data on cloud called thingspeak where he can view the status of the soil, plants etc graphically. This helps him understand the crop requirements and improve the yield. Parameters like soil moisture that cant manually be checked can be sensed instantly thereby reducing the farmer’s effort. He is also given a manual control over the system. Database SQLite is used for logging in and storing the credentials. This helps the farmer to secure this system from any 3rd party intervention.
+    </string>
+    <string name="intro_sixteen_it">
+            Student smart card is a project which aims towards building a system/application which would allow students to have multiple benefits using a single smart card issued to them.\n
+            -The project involves a card which contains a RFID card which is nothing but a unique card that is assigned to the student. This card can be refilled as and when required by the student with the help of admin.\n
+            -This card can be used for attendance using the scanner system in every classroom and as a gate entry passes for each and every student.\n
+            - This card is useful for the student in places like cafeteria, parking and stationary shops. When the card is inserted or scanned using the scanner , the unique id stored is scanned and accordingly cash is deducted.\n
+            Same way in case of stationary shop where the cash amount is deducted from the student's account and same way in case of canteen. Thus the student just needs to carry the portable card. Thus this card is very beneficial for a student and makes many of its work easy.
+
+    </string>
+    <string name="intro_seventeen_it">
+                Steganography is the hiding of a secret message within an ordinary message and the extraction of it at its destination. Steganography takes cryptography a step farther by hiding an encrypted message so that no one suspects it exists. Ideally, anyone scanning your data will fail to know it contains encrypted data\n
+        	The aim is to communicate a text among a transmitter and receiver, such that a third party (Intruder/Hacker) cannot understand the message.\n
+        	Aim of stenography is to avoid decryption through an opponent who does not distinguish the secret key generate.\n
+        	Design new algorithm Sequential-DNA, Round-LSB to calculate the accuracy of method.\n
+        	Review various assets about security of steganography.\n
+        	Comparing previous algorithm with the proposed algorithms.\n
+
+    </string>
+    <string name="intro_eighteen_it">
+        In computer science, secure transmission refers to the transfer of data such as confidential or proprietary information over a secure channel. Many secure transmission methods require a type of encryption. Some organizations transmit data between applications, such as an electronic health record. It is wise to view such transmissions, if the data travels outside an organization, as any message sent over the Internet, meaning its subject to interception and misuse unless protected properly. The data transmitted over the internet is in the form of images and in order to protect the secure data like bank details which are generally shared through the form of images image processing is to be studied in detail along with other audio formats which may also act as a way of transmission that is why our project is aimed at implementing image, text processing in terms of cryptography and steganography via the use of a java application
+    </string>
+
 
     <!-- These are module details of string-->
     <string name="module_one_it">
-        1.	ResNet34 Training Module:-
+        Module 1.\n
+        ResNet34 Training Module:-
         This module uses a ResNet34 architecture to train on the 68 point facial landmark detection dataset.\n
-        2.	Data Generation Module:-
+        Module 2.\n
+        Data Generation Module:-
         This module is used to generate data from an incoming video file.\n
-        3.	Generator Network Module:-
+        Module 3.\n
+        Generator Network Module:-
         This module is used to make the generator neural network.\n
-        4.	Discriminator Network Module:-
+        Module 4.\n
+        Discriminator Network Module:-
         This module is used to make the discriminator neural network.\n
-        5.	Pix2pix Module:-
+        Module 5.\n
+        Pix2pix Module:-
         This module intakes the different architectures and then combines them to form the pix2pix architecture.\n
-        6.	API Views:-
+        Module 6.\n
+        API Views:-
         Module that contains API Backend views\n
-        7.	Static Files:-
+        Module 7.\n
+        Static Files:-
         Module that contains static files of API (frontend)\n
     </string>
     <string name="module_two_it">
-        1. site vs site: It allows you to analyse your business search engine competition to get the most on internet investment \n
-        2. Pdf Report Generation: Download seo pdf to easy and reliable offline access to your search engine insights\n
-        3. Share: You can share your seo scores on various social media platforms\n
-        4. Keyword consistency: allows you to analyse your webpage as per their keyword concentration\n
-        5. Usability testing: analyse user behaviour as per the search engine standards\n
-        6. Compare Domains Individually: Get instant compare analysis when you are done analysing a single domain without heading back to site vs site page\n
-        7. Broken Links Analysis: Broken links send users to non-existing web pages. They are bad for your site's usability, reputation and SEO.\n
-        8. Social Login: Allows user to login via facebook, twitter and g+\n
-        9. Multi-Language Support: Allows website to used in multiple language forms\n
-        10. Indexed Page Checker: Checks how many pages are indexed in the search engine database\n</string>
+        Module 1.\n site vs site: It allows you to analyse your business search engine competition to get the most on internet investment \n
+        Module 2.\n Pdf Report Generation: Download seo pdf to easy and reliable offline access to your search engine insights\n
+        Module 3.\n Share: You can share your seo scores on various social media platforms\n
+        Module 4.\n Keyword consistency: allows you to analyse your webpage as per their keyword concentration\n
+        Module 5.\n Usability testing: analyse user behaviour as per the search engine standards\n
+        Module 6.\n Compare Domains Individually: Get instant compare analysis when you are done analysing a single domain without heading back to site vs site page\n
+        Module 7.\n Broken Links Analysis: Broken links send users to non-existing web pages. They are bad for your site usability, reputation and SEO.\n
+        Module 8.\n Social Login: Allows user to login via facebook, twitter and g\n
+        Module 9.\n Multi-Language Support: Allows website to used in multiple language forms\n
+        Module 10.\n Indexed Page Checker: Checks how many pages are indexed in the search engine database\n</string>
     <string name="module_three_it">
-        1.	Motor Module: This module comprises of four motors along with four LEDs which indicate their ON/OFF status .One pair of motors is temperature-dependent while the other is time- dependent. The working of temperature dependent motors alternates on the basis of increasing temperatures measured using temperature sensors. While the load share of time dependent motors alternates between the main and auxiliary motor with time.\n
-        2.	Lighting Module: The second module comprises of three LDRs (Light Dependent Resistors: whose functioning depends on the incident light intensity) and eight LEDs. The LEDs adjust their brightness based on the intensity of the natural light coming from the window that is sensed by the LDRs so that the plant is always well lit and thus providing an increased efficiency.\n
-        3.	Secure Room Module: This module constitutes of a proximity sensor, servo motor, and a fingerprint sensor lock mechanism. The primary function of the module revolves around automatic door opening mechanism using the above mentioned devices. The proximity sensor helps to judge the presence of a person near the door while the fingerprint sensor uses the fingerprint pattern which is unique, to detect whether the person is authenticated to enter the premises of the secure room or not.\n
-        4.	Smoke Sensing Module and Website: There is also a smoke sensor which senses smoke in case of a fire and alerts the industry staff through piezoelectric buzzer and sending an SMS and a notification in the UI as well. The various modules of the project are interconnected via the BOLT cloud to a Web Application accessible only via OTP protected login page. A fully functional admin control panel gives the admin functionality of shifting from an automatic mode to manual mode and control each hardware part separately.\n
+        Module 1.\n	Motor Module: This module comprises of four motors along with four LEDs which indicate their ON/OFF status .One pair of motors is temperature-dependent while the other is time- dependent. The working of temperature dependent motors alternates on the basis of increasing temperatures measured using temperature sensors. While the load share of time dependent motors alternates between the main and auxiliary motor with time.\n
+        Module 2.\n	Lighting Module: The second module comprises of three LDRs (Light Dependent Resistors: whose functioning depends on the incident light intensity) and eight LEDs. The LEDs adjust their brightness based on the intensity of the natural light coming from the window that is sensed by the LDRs so that the plant is always well lit and thus providing an increased efficiency.\n
+        Module 3.\n	Secure Room Module: This module constitutes of a proximity sensor, servo motor, and a fingerprint sensor lock mechanism. The primary function of the module revolves around automatic door opening mechanism using the above mentioned devices. The proximity sensor helps to judge the presence of a person near the door while the fingerprint sensor uses the fingerprint pattern which is unique, to detect whether the person is authenticated to enter the premises of the secure room or not.\n
+        Module 4.\n	Smoke Sensing Module and Website: There is also a smoke sensor which senses smoke in case of a fire and alerts the industry staff through piezoelectric buzzer and sending an SMS and a notification in the UI as well. The various modules of the project are interconnected via the BOLT cloud to a Web Application accessible only via OTP protected login page. A fully functional admin control panel gives the admin functionality of shifting from an automatic mode to manual mode and control each hardware part separately.\n
     </string>
     <string name="module_four_it">
         1.	Email alert\n
@@ -122,6 +327,220 @@
         6.	Data Analysis\n
         7.	Data processing\n
         8.	Data Tracking\n
+    </string>
+    <string name="module_five_it">
+        Module 1.\n ML: Image classification model working. Can make out the difference b/w dogs, cats and other animals.\n
+        Module 2.\n  CV: Background subtraction, segmentation and hand recognition working.Based on this, we can count the no. of fingers being pointed at the screen\n
+        Module 3.\n JS: Creating and maintaining sockets b/w two systems. Based on this, a chat application working.\n
+        Module 4.\n  Web: Socket based triggers and corresponding movements\n
+
+    </string>
+    <string name="module_six_it">
+        Module 1.\n	Login Activity: This module comprises of two facets, login id and password , for necessary authentication and connection to the database. Login Activity is necessary to access   personalized account of every user.\n
+        Module 2.\n	Admin Panel: The second module comprises of a panel consisting of functions regulated by the admin including my profile, new registration, vehicle registration, black list vehicle, manage users, and logout. Each option leads to separate functionality.\n
+        Module 3.\n	Profile: This module tells the admin all its personal details including userid, name, fathers name ,email id, mobile number, address, user type, reg date and account balance. These details are fetched from the database through a JSP conncetion.\n
+        Module 4.\n	New Registration module:  This module allows registration of a new user, including owner of a vehicle, admin or toll manager.The menu allows the user to enter all his personal details which are then stored in MySQL database connected through JSP.\n
+        Module 5.\n	Vehicle Registration: Allows registration of a vehicle, entry of attributes such as vehicle no. , license no. , model no., description to enter in the table vehicle in database.\n
+        Module 6.\n	Black List Vehicle: The module allows to black list an unauthorized vehicle, changing to true or false accordingly in the database, barring the aunauthorized vehicle to pass through the gate.\n
+        Module 7.\n	Deactivating User: The admin is allowed the access to deactivate the user , so that an unauthorized user is unable to use his virtual wallet.\n
+        Module 8.\n	MySql database(PHP MyAdmin) : Used to monitor data in a database, using two separate tables , user details and vehicle details.\n
+    </string>
+    <string name="module_seven_it">
+      Module 1.\n Data visualization\n
+      Module 2.\n Feature analysis\n
+      Module 3.\n Missing value analysis\n
+      Module 4.\n Univariate analysis\n
+      Module 5.\n Bivariate analysis\n
+      Module 6.\n Correlation overview\n
+      Module 7.\n Exploring correlated features \n
+      Module 8.\n Feature engineering\n
+      Module 9.\n Modeling preparation \n
+      Module 10.\n Xgboost modelling and feature importance\n
+    </string>
+    <string name="module_eight_it">
+        Module 1.\n The NodeMCU Development board is flashed with the binary files of the latest firmware
+        and then the compatible drivers (CH341G) are installed on the system.\n
+        Module 2.\n The Arduino IDE is then installed , along with the NodeMCU libraries through boards
+        manager which recognize and help coding arduino sketches compatible to the NodeMCU
+        board.\n
+        Module 3.\n Now, we test the board for internet connectivity by connecting it with a wifi router/hotspot.
+        This is achieved by coding in the SSID and Password and using the ESP8266 WiFi libraries
+        compatible with arduino IDE.\n
+        Module 4.\n Once the sketch is verified and compiled, we upload it by selecting the available COM
+        port. Once it is flashed, the Serial Monitor (which would display the IP Address as output) is
+        used to check whether the Node MCU is connected to the available WiFi network.\n
+        Module 5.\n Further we interface the ultrasonic sensor with the NodeMCU development board to
+        calculate the distance of an object in front of it. We use the principle of speed of sound in air
+        and the time period to calculate distance of the object in front of the sensor.\n
+        Module 6.\n First, the height of the dustbin is calculated which would eventually help to generate the
+        percentage of the trash in the can as it fills up.\n
+        Module 7.\n As the ultrasonic sensor measures the distance of the trash and hence the percentage of
+        the can filled, it sends this data to the microcontroller. The microcontroller in return, is
+        connected to the blynk cloud servers which sends the data on the mobile application.\n
+        Module 8.\n As the trash in the bin reaches a certain amount, the application notifies the collector
+        about the increasing level. (In this case, the threshold is kept at 75% of the amount of the
+        dustbin which can be altered according to the preferences of the user.)\n
+        Module 9.\n The application displays a series of three virtual LEDs that indicate the urgency of the
+        action required for a particular can in the form of red, yellow and green lights.\n
+        Module 10.\n Also, an animated level indicator virtually displays the level of trash filled in the can, in
+        accordance with the lights for the collector’s perusal.\n
+    </string>
+    <string name="module_nine_it">
+        Module 1 \nAdmin panel:\n
+        a) Register candidate-Admin will register the candidates to whom citizens will give votes
+        like president, vice president.\n
+        b) View candidate list- He can view the list of candidates which are standing in the election
+        for their respective post.\n
+        c) Register citizens with biometric: He will register the citizens using their personal info
+        alongwith fingerprint.\n
+        d) View Registered citizens: He can view the list of citizens who will give votes in the
+        election process.\n
+        e) Add agenda: He can add the agenda of candidates party-wise.\n
+        f) View results: He can view the result in the sorted order like the candidate which has
+        acquired the maximum votes will be on the top.\n
+        g) View result in graph form: He can also view the result in some structure format like
+        bargraph or piechart.\n
+        h) View feedback : He can view the feedback given by the citizens about any particular
+        candidate or party using naive bayesian data mining algo .\n
+        i) Feedbackʼs graph: He can view the feedback in graph form also.\n
+        Module 2\nCitizens panel:\n
+        a) Login: Citizens will login with their respective id and password alloted to them at the time of
+        registration and then using fingerprint also.\n
+        b) Update profile: They can update their profile like change their phone no or any other personal
+        info. \n
+        c) Vote: Citizens will give vote to whomsoever candidate they wish to but they cam give only one time
+        vote.\n
+        d) View agenda: They can view the agenda of any party.\n
+        e) Give feedback: They can give feedback about any candidate if they wish to.\n
+        On the home page other than these panels, there are other sub pages like about us , contact us,
+        services and login\n
+    </string>
+    <string name="module_ten_it">
+        =>	Link Crawler Module\n
+        1.	setUrl Module: This module fetches the url input by the user and stores it into the $url variable. It then also recognizes the host of the url entered by the user and stores it into the $host variable.\n
+        2.	crawl Module: This module comprises of two parts, firstly it checks the value in $url, if it is empty, then it throws and exception “URL must be set” and after the URL is set it, it runs the crawl function. It fetches the pre-requisite depth and URL from the $depth and $url variables. After the execution of crawl function, it arranges the fetched URLs alphabetically. And stores it into the $results array.\n
+        3.	_crawl Module: This module constructs an array named $seen, checks if the there is no value in $url, and if it’s so, it fetches the url from the buildurl function. It then checks for the value if depth and url again. After both the values are fetched, they are stored in the $results array.\n
+        4.	dom Module: This module constructs a Document Object Model from the fetched url. The url(s) and depth(s) of the fetched urls are stored in the $results array. Then the above constructed $seen array is stored in newly constructed $crawled array. This is done for the comparison of urls later.\n
+        5.	anchor Module: This module fetches all the urls from the DOM by identifying the anchor tag. All these anchors are now stored in $elements. It then checks for the href tags, if not found, is fetched from the $elements and stored in the $seen array.\n
+        6.	array_diff: This module compares the urls stored in $seen array and $crawled array. If the crawled url matches the urls in seen array, the crawler skips it to prevent ambiguity.\n
+        7.	buildurl Module: This module helps build a proper url by looking for and removing any “#” values and “javascripts” in the fetched urls. It also trims the required urls and stores then into the $parts array. The $parts data is then parsed using the value of $url and fetching the href it stores the complete path in $path.\n
+        8.	buildUrlFromParts Module: This module fetches all the values from the $parts array, the href, the host name, the port etc and builds a url to be stored in the $new_href.\n
+        9.	getHostFromUrl Module: This module parses the url, input by the user, compares it with a string of regular expressions and returns the value of the fetched host in the $host variable.\n
+        =>	Meta Title Crawler Module\n
+        •	This module crawls the meta titles of the crawled urls. This data is then stored for later user-end display and website proficiency check and CTR Score.\n
+        =>	Meta Description Crawler Module\n
+        •	This module crawls the meta descriptions of the crawled urls. This data is then stored for later user-end display and website proficiency check and CTR Score.\n
+        =>	Website (User End) Module\n
+        •	This is the front-end or the user end of the tool, which allows the user to directly input the url of whose CTR Score they want to analyse and data they want to fetch. It will display all the fetched data[url(s), meta title(s) and meta description(s)], with the CTR Score as well as a functionality of downloading the fetched data to the user.\n
+
+    </string>
+    <string name="module_eleven_it">
+       * Editor: Student can compile and run their code using editor on Coding Ground.\n
+       * Practice: Students can practice their coding skills in practice area.\n
+       * Signup: User can enter their credentials to get registered into the system.\n
+       * Login: User can login using their registered credentials.\n
+       * Homepage: User details will be shown on this web page.\n
+
+    </string>
+    <string name="module_twelve_it">
+        1. Raspberry pi 3 model B : The Raspberry Pi 3  Model is the latest version of the Raspberry Pi, a tiny credit card size computer.\n
+2. GPS module : GPS is used to detect the Latitude and Longitude of any location on the Earth, with exact UTC time. GPS module is the main component in our vehicle tracking system project.\n
+3. UART module :This is a USB to Serial UART  converter module. It is allow you to connect your computer through USB port and use it as a regular serial communication.4. 16 GB class 10 micro SD card.
+In order to store the Raspbian operating system if you are using Raspberry pi 3. 16 GB class 10 micro SD card.\n
+ 5. Jumper wires:
+For connecting the GPIO pins together.\n
+6.Raspberry pi OS:
+Normally a raspberry pi uses rasping as an operating system it also uses a Debian based Linux operating system.\n
+7.Putty:
+It is software which is used to interface the raspberry pi and laptop screen.\n
+8.	Filezilla:
+ FileZilla is a free software, cross-platform FTP application, consisting of FileZilla Client and FileZilla Server.\n
+9.	VNC Viewer:VNC Connect is screen sharing software that enables you to solve problems, help people and work remotely control remote computers as though sitting in front of them, at any time, from any device.\n
+10.	GPS Antenna: It's job is to convert the energy in the electromagnetic waves arriving from the satellites into an electric current that can be processed by the electronics in the receiver.\n
+
+    </string>
+    <string name="module_thirteen_it">
+        1.	Sqoop: To load data into SQL from CSV file and from the Hive and Pig results. It is basically used communicate with HDFS.\n
+2.	Pig: In this module we use pig to analyse the data like top 10 customer, top 10 companies, chain wise sales etc. As pig is a non SQL database therefore queries used in pig are different. All the work done in pig is in cache memory therefore all the results are temporary.\n
+3.	Hive: In this module we use hive to analyse the data like chain wise sales, top 10 brands etc. As hive uses HQL(hive Query Language) therefore all queries are written in hive shell.\n
+
+    </string>
+    <string name="module_fourteen_it">
+            Microcontroller-
+            We are using Arduino Nano microcontroller. As its name, Arduino Nano is a compact and breadboard-friendly version board based on ATmega328 processor.  The dimension of Arduino Nano is only 43mm x 18mm, it comes with 6 PWM I/O from the total of 14 digitals I/O, 8 Analog inputs, 16Mhz clock speed and 32kB of flash memory.
+            This chip provide support to other peripheral devices and sensors. We can manipulate the working of other devices by using this microcontroller and we can change its functionality by its programme which is written in its Arduino application.\n
+
+            DHT sensors-
+            The DHT sensors are made of two parts, a capacitive humidity sensor and a thermistor. There is also a very basic chip inside that does some Analog to Digital conversion and spits out a digital signal with the humidity. This digital signal is fairly easy to read using any microcontroller.\n
+
+            Temperature Sensor-
+             We are using Lm35 Temperature. The LM35 series are precision integrated circuit LM35 temperature sensors, whose output voltage is linearly proportional to the temperature in Celsius (Centigrade). It measures the temperature of patient and sent that Analog readings to microcontroller.\n
+
+            Heart Beat Sensor-
+            Heart beat sensor is designed to give digital output of heart beat when a finger is placed inside it. This digital output can be connected to Arduino directly to measure the Beats per Minute (BPM) rate. It works on the principle of light modulation by blood flow through finger each pulse. IC LM358 is used for this sensor.\n
+
+
+
+            Wi-Fi-
+            Wi-Fi is must in this project as  it helps in connectivity of health monitoring system to others like to the emergency contacts and regular updates to doctor and it is also used in sending data.\n
+
+            Web services-
+            Amazon web service. Essentially AWS is Amazon’s cloud-computing platform.  It is providing services such as computing power database messaging and storage. With the help of this web service we can send alert message to the relatives of patient or doctor, when patient is critical. This cloud-computing platform will also work as our database, it will store the data like patient’s relative contacts, alert messages, health of patient, medicines schedule and other important data.\n
+
+    </string>
+    <string name="module_fifteen_it">
+        Android app module –  Helps to remotely  access the system and gives the control to the user even from a distance. Secured.\n
+Cloud based module-  Connects the sensors to the website and helps map the analog signals digitally. Helps to let you analyze and visualize your data and act on it.\n
+Microprocessor Arduino Nano module- Sensor data can be sent to ThingSpeak from Arduino. It is used to program the sensors and make them react according to certain specified conditions. It is known to add “life” to the hardware.\n
+WiFi module-  Gives  any microcontroller access to your WiFi network. Interfaces the analog and digital data and takes commands from arduino nano.\n
+Soil moisture sensing module- Helps monitor the level of moisture in soil that’s favorable to the plant which cant manually be tested.\n
+Digital humidity temperature sensing module- DHT11 is a low cost humidity and temperature sensor that reacts to changes in these parameters according to reference values.\n
+Rainfall sensing module- Switching device activated by rainfall\n
+
+    </string>
+    <string name="module_sixteen_it">
+        The implementation is done using Java based desktop application which is used to scan a card which is nothing but a RFID card that is assigned to the student and the same system is used to store and process student related information using barcode scanner.\n
+Functionality of our Student Smart Card System-\n
+-	Admin Module\n
+The admin can login and can refill the balance of the student’s card. The admin can also access the other information of students:\n
+Student’s payment related information.\n
+ Student’s attendance related information.\n
+ Other common admin features\n
+
+-	Student Module-
+The Student can login and view balance and last five transactions which will help him to be aware of his card balance and accordingly refill it whenever required.\n
+
+-	 Account maintenance-
+The admin is responsible for maintaining the accounts of the students holding the card.\n
+
+-	 ID scanning-
+The card is being scanned to deduct cash amount from the user's account or get the student's important documents or mark the attendance.\n
+-	 Payment in cafeteria –
+This ID on the card can be scanned to pay for the food items purchased in cafeteria.\n
+-	Payment for parking and Document Carrier –
+The card can also be used to pay for parking.The card's unique ID can be used to retrieve the important documents (results,) of the student stored on the server. Thus the student doesn’t have to carry the hardcopy of the documents always.\n
+-	 College Entry –Card will be used as an entry pass for the college entrance\n
+
+    </string>
+    <string name="module_seventeen_it">
+            Steganocoder: This module "hides" a message within an image that the user provides. The final output is an image file that contains the message protected by encryption and encoding.\n
+            Steganocoder_rand : This module is an upgrade to the STEGANCODER Function b/c the message is hidden randomly across pixels within the target "canvas" image. The STEGANCODER Function sequentially "hides" the message. It has been demonstrated that sequential encoding makes the message far easier to detect and recover.\n
+            Sender : This module encrypts and hide message to a canvas image.\n
+            Receiver : This module decrypts and extracts the message from hidden image.\n
+            Receiver_img_to_img : This module extract image message from hidden image.\n
+            Receiver_img_to_text : this module extract text message from hidden image.
+
+    </string>
+    <string name="module_eighteen_it">
+            1. Nowdays information security is becoming important in data storage and transmission. It is important to hide the important information which we are doing through modified playfair cipher. Our first module is about this.\n
+            2. In this method we are using 6X6 matrix to perform the encryption and decryption. The matrix includes both numbers and letters. Hence, making it difficult to decrypt the hidden information\n
+            3. Modified Playfair cipher can be used in 2 ways hence it enhances the security.\n
+            4. The modified playfair cipher can be extended further and we can also use 10X9 matrix which includes the special characters even.\n
+            5. The cipher is easy to implement and earlier we applied brute force and frequency analysis on it.\n
+            6.Image steganography is the technique of hiding the data in image in such a way that prevents the unintended user to detect the hidden message or data.\n
+            7. This technique is used to hide passwords and encryption technique and is also used to transfer the hidden messages.\n
+            8. A common approach of hiding the data within image file is least bit substitution in which binary representation of hidden data is taken and then we overwrite the LSB of each byte within the cover image.\n
+
     </string>
 
 </resources>

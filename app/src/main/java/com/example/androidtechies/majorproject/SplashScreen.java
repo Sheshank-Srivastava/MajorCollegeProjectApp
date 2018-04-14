@@ -19,14 +19,12 @@ private ImageView imageView;
         setContentView(R.layout.activity_main);
         textView=(TextView) findViewById(R.id.projectName);
         imageView=(ImageView) findViewById(R.id.splashIcon);
-        Animation myanim = AnimationUtils.loadAnimation(this,R.anim.mytransition);
-        textView.startAnimation(myanim);
-        imageView.startAnimation(myanim);
         Handler splash = new Handler();
         splash.postDelayed(new Runnable() {
             @Override
             public void run() {
                 Intent branch = new Intent(SplashScreen.this,HomeScreen.class);
+                startActivity(branch);
             }
         },1000);
     }
