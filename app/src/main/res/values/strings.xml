@@ -4,8 +4,8 @@
 
 
     <!--detail description string-->
-    <string name="introduction">IntroDuction</string>
-    <string name="technology_used">Technology used</string>
+    <string name="introduction">Introduction</string>
+    <string name="technology_used">Technology Used</string>
     <string name="working_module">Module</string>
     <string name="footer">Developed by <b>"android TECHIES"</b> OF GTBIT</string>
     <!--Stream Name-->
@@ -14,26 +14,85 @@
     <string name="ece">ECE</string>
     <string name="eee">EEE</string>
     <!-- these are project title strings -->
-    <string name="title_one_it">Hinton</string>
-    <string name="title_two_it">Analyst</string>
-    <string name="title_three_it">Autonmont</string>
-    <string name="title_four_it">Market BASKET ANALYSIS</string>
-    <string name="title_five_it">Lambee: 3D Navigation of the Web</string>
-    <string name="title_six_it">AutoPass (Toll tax collection system)</string>
-    <string name="title_seven_it">Porto Serugo’s Safe Driver Predition</string>
-    <string name="title_eight_it">Smart Garbage Monitoring System using Internet of Things(IOT)</string>
-    <string name="title_nine_it">Biometric authentication</string>
-    <string name="title_ten_it">Web Scrapping and CTR Score Analysis</string>
-    <string name="title_eleven_it">Coding Ground</string>
-    <string name="title_twelve_it">Remote Vehicle Monitoring System</string>
-    <string name="title_thirteen_it">RETAIL DATA ANYLYSIS USING HADOOP</string>
-    <string name="title_fourteen_it">IOT based Patient Health Monitoring System and Smart Medicine Box</string>
-    <string name="title_fifteen_it">Smart Automated irrigation system</string>
-    <string name="title_sixteen_it">Smart Card System Using RFID Tags</string>
-    <string name="title_seventeen_it">STEGANOGRAPHY</string>
-    <string name="title_eighteen_it">Enhancing security of image and text </string>
-
-
+    <string name="title_one_it">
+        Hinton</string>
+    <string name="title_two_it">
+        Analyst</string>
+    <string name="title_three_it">
+        Autonmont</string>
+    <string name="title_four_it">
+        Market BASKET ANALYSIS</string>
+    <string name="title_five_it">
+        Lambee: 3D Navigation of the Web</string>
+    <string name="title_six_it">
+        AutoPass (Toll tax collection system)</string>
+    <string name="title_seven_it">
+        Porto Serugo’s Safe Driver Predition</string>
+    <string name="title_eight_it">
+        Smart Garbage Monitoring System using Internet of Things(IOT)</string>
+    <string name="title_nine_it">
+        Biometric authentication</string>
+    <string name="title_ten_it">
+        Web Scrapping and CTR Score Analysis</string>
+    <string name="title_eleven_it">
+        Coding Ground</string>
+    <string name="title_twelve_it">
+        Remote Vehicle Monitoring System</string>
+    <string name="title_thirteen_it">
+        RETAIL DATA ANYLYSIS USING HADOOP</string>
+    <string name="title_fourteen_it">
+        IOT based Patient Health Monitoring System and Smart Medicine Box</string>
+    <string name="title_fifteen_it">
+        Smart Automated irrigation system</string>
+    <string name="title_sixteen_it">
+        Smart Card System Using RFID Tags</string>
+    <string name="title_seventeen_it">
+        STEGANOGRAPHY</string>
+    <string name="title_eighteen_it">
+        Enhancing security of image and text </string>
+    <string name="title_ninteen_it">
+        Crypter </string>
+    <string name="title_twenty_it">
+        Tow detection and anti-accident system</string>
+    <string name="title_twentyone_it">
+    WORD TO VECTOR
+    </string>
+    <string name="title_twentytwo_it">
+        FOG COMPUTING</string>
+    <string name="title_twentythree_it">
+        Gideon Personal Assistant
+    </string>
+    <string name="title_twentyfour_it">
+        Fire Fighting Robot </string>
+    <string name="title_twentyfive_it">
+        Motion Detection System Using Matlab </string>
+    <string name="title_twentysix_it">
+        Intelligent Home </string>
+    <string name="title_twentyseven_it">
+        Student smart payment
+    </string>
+    <!--<string name="title_twentyeight_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_twentynine_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_thirty_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_thirtyone_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_thirtytwo_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_thirtythree_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_thirtyfour_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_thirtyfive_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_thirtysix_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_thirtyseven_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_thirtyeight_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_thirtynine_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_fourty_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_fourtyone_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_fourtytwo_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_fourtythree_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_fourtyfour_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_fourtyfive_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_fourtysix_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_fourtyseven_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_fourtyeight_it">Enhancing security of image and text </string>-->
+    <!--<string name="title_fourtynine_it">Enhancing security of image and text </string>-->
 
 
     <!-- these are project technology strings -->
@@ -105,6 +164,62 @@ Platform used Arduino Uno IDE, Android Studio, SQLite, Thingspeak (Cloud based p
     <string name="techno_eighteen_it">
         Java
     </string>
+    <string name="techno_ninteen_it">
+    Django ,python3.5, AJAX, js
+    </string>
+    <string name="techno_twenty_it">
+        Embedded C
+    </string>
+    <string name="techno_twentyone_it"> Python\n
+Platform: ATOM
+</string>
+    <string name="techno_twentytwo_it">Operating System - Windows 95/98/2000/XP /7/10/OS
+ Application Server - Tomcat5.0/6.X
+ Front End - HTML, Java, Jsp
+ Scripts - JavaScript.
+ Server side Script - Java Server Pages.
+ Database - Mysql
+ Database Connectivity - JDBC </string>
+    <string name="techno_twentythree_it">
+        VB.NET, JSON, AJAX, XML
+    </string>
+    <string name="techno_twentyfour_it">
+   Language used : C programming
+Platform used : Kiel micro Vision
+
+    </string>
+    <string name="techno_twentyfive_it">
+   	Language/Platform Used: Matlab
+    </string>
+    <string name="techno_twentysix_it">
+        Language Used : C#, arduino coding\n
+        Platform(s) Used : Visual Studio for C#, Arduino IDE.
+
+    </string>
+    <string name="techno_twentyseven_it">
+        Advance java,sql,netbeans ide 8.1
+    </string>
+    <!--<string name="techno_twentyeight_it"> </string>-->
+    <!--<string name="techno_twentynine_it"> </string>-->
+    <!--<string name="techno_thirty_it"></string>-->
+    <!--<string name="techno_thirtyone_it"></string>-->
+    <!--<string name="techno_thirtytwo_it"> </string>-->
+    <!--<string name="techno_thirtythree_it"> </string>-->
+    <!--<string name="techno_thirtyfour_it"></string>-->
+    <!--<string name="techno_thirtyfive_it"></string>-->
+    <!--<string name="techno_thirtysix_it"></string>-->
+    <!--<string name="techno_thirtyseven_it"> </string>-->
+    <!--<string name="techno_thirtyeight_it"></string>-->
+    <!--<string name="techno_thirtynine_it"></string>-->
+    <!--<string name="techno_fourty_it"> </string>-->
+    <!--<string name="techno_fourtyone_it"> </string>-->
+    <!--<string name="techno_fourtytwo_it"></string>-->
+    <!--<string name="techno_fourtythree_it"></string>-->
+    <!--<string name="techno_fourtyfour_it">Enhancing security of image and text </string>-->
+    <!--<string name="techno_fourtyfive_it">Enhancing security of image and text </string>-->
+    <!--<string name="techno_fourtysix_it">Enhancing security of image and text </string>-->
+    <!--<string name="techno_fourtyseven_it">Enhancing security of image and text </string>-->
+    <!--<string name="techno_fourtynine_it">Enhancing security of image and text </string>-->
 
 
 
@@ -121,7 +236,7 @@ Platform used Arduino Uno IDE, Android Studio, SQLite, Thingspeak (Cloud based p
         possible and it aims to make people believe not to blindly follow
         what is seen on social media platforms like Facebook or Instagram.
         The main working of the project comes in form that we can alter
-        facial expressions in a video live upto an extent that it is very
+        facial expressions in a video live up to an extent that it is very
         difficult to distinguish between original and generated video.
         We use ResNet34 model trained to detect 68 points facial
         landmarks on the target video, pix2pix research paper for creating a
@@ -275,6 +390,75 @@ With Project Lambee, we make use of the cheapest interaction tool available to m
     <string name="intro_eighteen_it">
         In computer science, secure transmission refers to the transfer of data such as confidential or proprietary information over a secure channel. Many secure transmission methods require a type of encryption. Some organizations transmit data between applications, such as an electronic health record. It is wise to view such transmissions, if the data travels outside an organization, as any message sent over the Internet, meaning its subject to interception and misuse unless protected properly. The data transmitted over the internet is in the form of images and in order to protect the secure data like bank details which are generally shared through the form of images image processing is to be studied in detail along with other audio formats which may also act as a way of transmission that is why our project is aimed at implementing image, text processing in terms of cryptography and steganography via the use of a java application
     </string>
+    <string name="intro_ninteen_it">
+    Representation of market trend of top 10 crypto currencies , various factors like market cap of each curreny, one point destination for any news on that cryptocurrency.
+The platform will be useful for investors to take  informed decisions about their investments.
+    </string>
+    <string name="intro_twenty_it">
+        his is a special idea for tow detection and anti-accident system. This system would be installed on a vehicle for proper application. In this project we demonstrate the idea of two detection and alerting system. For this purpose we use an IR sensor that sense the ground level and in case of vehicle tow then system sense the tow condition and will weep a buzzer and alert the resp. Person using gsm calling feature so that the person can take appropriate action fir the protection of vehicle.
+In the case if anti-accident again we use IR sensors that will sense any object in its range and will change the direction of the car automatically.
+    </string>
+    <string name="intro_twentyone_it">Word2vec is a method of computing vector representations of words introduced by a team of researchers at Google led by Tomas Mikolov.
+The word2vec model, has led to significant improvements to natural language processing (NLP) task performance.
+This paper outlines an approach to improving upon the word2vec skip-gram
+model. In order to obtain better word representations for morphologically rich languages and to yield more accurate results for rare or unseen words. A word representation is derived from the vector embeddings of its constituent ngrams, which are updated and learned in the training process.
+The recently introduced continuous Skip-gram model is an efficient method for learning high-quality distributed vector representations that capture a large number of precise syntactic and semantic word relationships. By subsampling of the frequent words we obtain significant speedup and also learn more regular word representations. We train two models on different corpus: one with unigram embeddings, and another with bi-gram embeddings. We evaluate the models using word similarity and word analogy tasks and comparing to a word2vec skip-gram baseline.
+</string>
+    <string name="intro_twentytwo_it">Fog computing can be further used in augmented reality, content delivery and mobile big data
+analytics. A Smart Home With the rapid development of the Internet of Things, more smart
+devices and sensors are connected at home. However, products from different vendors are hard
+to work together. It can also be used in Smart Grid. The smart grid is an electricity distribution
+network, with smart meters deployed at various locations to measure the real time status
+information. A centralized server called SCADA system gathers and analyzes the status
+information, and sends commands to respond to any demand change or emergency to stabilize
+the power grid. Smart Vehicle Fog computing can be integrated into vehicular networks.
+Depending on whether extra infrastructure is needed, vehicular fog computing can be
+categorized into two types, infrastructure-based and autonomous. </string>
+    <string name="intro_twentythree_it">
+        Gideon is a personal assistant, it will answer the questions asked by the
+        person. It is made up with the help of VB.net and MIT app inventor. The coding
+        of the application is done in language visual basic.net and the Android application build using MIT app inventor guide on is a virtual assistant to reduce the human effort it works as an intelligent personal assistant and knowledge navigator the feature uses and natural language user interface and to answer questions, make recommendations and perform actions by delegating request to database or a set of Web Services the language used is easily understandable. Gideon is working via bluetooth or using internet the system should have bluetooth connectivity to make connection via bluetooth. To make connection over internet the QR code should be scanned ones by the Android device after
+        that take that device anywhere along with you that order will work properly. </string>
+    <string name="intro_twentyfour_it">
+        It is a micro controller based fire fighting robot. we have used ADC and
+        comparator system which work in a way when heat detect is nearby the heat sensor,
+        it will activate the motor which is connected to water tank and will remain in the
+        activated state till sensor again detect that temperature is drawn normal. </string>
+    <string name="intro_twentyfive_it">
+    Motion detection is the process of detecting a change in the position of an object relative to its surroundings or a change in the surroundings relative to an object. Motion detection can be achieved by either mechanical or electronic method. A typical motion detection system can be divided into front-end system and back-end system. The task of the front-end system is to recognize motion by web-camera and represents it by a set of rectangles (red and blue).Features like Movement detection and Luminescence density. The feature is extracted using Kalman Algorithm. The task of the back-end system is to create a model to recognize the motion from the image in recognition phase.
+    </string>
+    <string name="intro_twentysix_it">
+        Intelligent Home is a project of Home Automation. Home automation is done with the help of Arduino. The project involves the use of Artificial intelligence for Speech Recognition.Home automation system uses a Software, which you can use to control electrical appliances with clicks or voice commands. Commands are sent to Arduino. So one need not get up to switch on or  off the device while watching a movie or doing some work.This is possible because of the smartphones and internet that we are widely using. Home automation can again be divided in to just controlling the appliances using a smartphone from a remote location and another type filled with sensors and actuators which controls the lighting, temperature, door locks, electronic gadgets, electrical appliances etc. using a “smart” system.
+
+
+    </string>
+    <string name="intro_twentyseven_it">     Our project is about to make a cashless life in college.
+ This project will allow to pay his/her bills through a account which is maintained by admin.             Admin  will provide a unique QR code to each student which will be scanned   for  processing transaction.
+Student can refill his account whenever he needs.this project can also be used for attendance purpose which will reduce the chances of proxy.
+At the time of transactio.student need to enter his pin which is provided by the admin at the time of registration.
+ </string>
+    <!--<string name="intro_twentyeight_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_twentynine_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_thirty_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_thirtyone_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_thirtytwo_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_thirtythree_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_thirtyfour_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_thirtyfive_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_thirtysix_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_thirtyseven_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_thirtyeight_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_thirtynine_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_fourty_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_fourtyone_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_fourtytwo_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_fourtythree_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_fourtyfour_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_fourtyfive_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_fourtysix_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_fourtyseven_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_fourtyeight_it">Enhancing security of image and text </string>-->
+    <!--<string name="intro_fourtynine_it">Enhancing security of image and text </string>-->
 
 
     <!-- These are module details of string-->
@@ -309,7 +493,7 @@ With Project Lambee, we make use of the cheapest interaction tool available to m
         Module 5.\n Usability testing: analyse user behaviour as per the search engine standards\n
         Module 6.\n Compare Domains Individually: Get instant compare analysis when you are done analysing a single domain without heading back to site vs site page\n
         Module 7.\n Broken Links Analysis: Broken links send users to non-existing web pages. They are bad for your site usability, reputation and SEO.\n
-        Module 8.\n Social Login: Allows user to login via facebook, twitter and g\n
+        Module 8.\n Social Login: Allows user to login via facebook, twitter and google.\n
         Module 9.\n Multi-Language Support: Allows website to used in multiple language forms\n
         Module 10.\n Indexed Page Checker: Checks how many pages are indexed in the search engine database\n</string>
     <string name="module_three_it">
@@ -319,14 +503,14 @@ With Project Lambee, we make use of the cheapest interaction tool available to m
         Module 4.\n	Smoke Sensing Module and Website: There is also a smoke sensor which senses smoke in case of a fire and alerts the industry staff through piezoelectric buzzer and sending an SMS and a notification in the UI as well. The various modules of the project are interconnected via the BOLT cloud to a Web Application accessible only via OTP protected login page. A fully functional admin control panel gives the admin functionality of shifting from an automatic mode to manual mode and control each hardware part separately.\n
     </string>
     <string name="module_four_it">
-        1.	Email alert\n
-        2.	Login\n
-        3.	Logout\n
-        4.	Database connectivity\n
-        5.	Data Mining\n
-        6.	Data Analysis\n
-        7.	Data processing\n
-        8.	Data Tracking\n
+        Module 1.	Email alert\n
+        Module 2.	Login\n
+        Module 3.	Logout\n
+        Module 4.	Database connectivity\n
+        Module 5.	Data Mining\n
+        Module 6.	Data Analysis\n
+        Module 7.	Data processing\n
+        Module 8.	Data Tracking\n
     </string>
     <string name="module_five_it">
         Module 1.\n ML: Image classification model working. Can make out the difference b/w dogs, cats and other animals.\n
@@ -416,131 +600,267 @@ With Project Lambee, we make use of the cheapest interaction tool available to m
         services and login\n
     </string>
     <string name="module_ten_it">
-        =>	Link Crawler Module\n
-        1.	setUrl Module: This module fetches the url input by the user and stores it into the $url variable. It then also recognizes the host of the url entered by the user and stores it into the $host variable.\n
-        2.	crawl Module: This module comprises of two parts, firstly it checks the value in $url, if it is empty, then it throws and exception “URL must be set” and after the URL is set it, it runs the crawl function. It fetches the pre-requisite depth and URL from the $depth and $url variables. After the execution of crawl function, it arranges the fetched URLs alphabetically. And stores it into the $results array.\n
-        3.	_crawl Module: This module constructs an array named $seen, checks if the there is no value in $url, and if it’s so, it fetches the url from the buildurl function. It then checks for the value if depth and url again. After both the values are fetched, they are stored in the $results array.\n
-        4.	dom Module: This module constructs a Document Object Model from the fetched url. The url(s) and depth(s) of the fetched urls are stored in the $results array. Then the above constructed $seen array is stored in newly constructed $crawled array. This is done for the comparison of urls later.\n
-        5.	anchor Module: This module fetches all the urls from the DOM by identifying the anchor tag. All these anchors are now stored in $elements. It then checks for the href tags, if not found, is fetched from the $elements and stored in the $seen array.\n
-        6.	array_diff: This module compares the urls stored in $seen array and $crawled array. If the crawled url matches the urls in seen array, the crawler skips it to prevent ambiguity.\n
-        7.	buildurl Module: This module helps build a proper url by looking for and removing any “#” values and “javascripts” in the fetched urls. It also trims the required urls and stores then into the $parts array. The $parts data is then parsed using the value of $url and fetching the href it stores the complete path in $path.\n
-        8.	buildUrlFromParts Module: This module fetches all the values from the $parts array, the href, the host name, the port etc and builds a url to be stored in the $new_href.\n
-        9.	getHostFromUrl Module: This module parses the url, input by the user, compares it with a string of regular expressions and returns the value of the fetched host in the $host variable.\n
-        =>	Meta Title Crawler Module\n
-        •	This module crawls the meta titles of the crawled urls. This data is then stored for later user-end display and website proficiency check and CTR Score.\n
-        =>	Meta Description Crawler Module\n
-        •	This module crawls the meta descriptions of the crawled urls. This data is then stored for later user-end display and website proficiency check and CTR Score.\n
-        =>	Website (User End) Module\n
-        •	This is the front-end or the user end of the tool, which allows the user to directly input the url of whose CTR Score they want to analyse and data they want to fetch. It will display all the fetched data[url(s), meta title(s) and meta description(s)], with the CTR Score as well as a functionality of downloading the fetched data to the user.\n
+        Module 1.\n	Link Crawler Module\n
+        A)	SetUrl Module: This module fetches the url input by the user and stores it into the $url variable. It then also recognizes the host of the url entered by the user and stores it into the $host variable.\n
+        B)	Crawl Module: This module comprises of two parts, firstly it checks the value in $url, if it is empty, then it throws and exception “URL must be set” and after the URL is set it, it runs the crawl function. It fetches the pre-requisite depth and URL from the $depth and $url variables. After the execution of crawl function, it arranges the fetched URLs alphabetically. And stores it into the $results array.\n
+        C)	_crawl Module: This module constructs an array named $seen, checks if the there is no value in $url, and if it’s so, it fetches the url from the buildurl function. It then checks for the value if depth and url again. After both the values are fetched, they are stored in the $results array.\n
+        D)	Dom Module: This module constructs a Document Object Model from the fetched url. The url(s) and depth(s) of the fetched urls are stored in the $results array. Then the above constructed $seen array is stored in newly constructed $crawled array. This is done for the comparison of urls later.\n
+        E)	Anchor Module: This module fetches all the urls from the DOM by identifying the anchor tag. All these anchors are now stored in $elements. It then checks for the href tags, if not found, is fetched from the $elements and stored in the $seen array.\n
+        F)	Array_diff: This module compares the urls stored in $seen array and $crawled array. If the crawled url matches the urls in seen array, the crawler skips it to prevent ambiguity.\n
+        G)	Buildurl Module: This module helps build a proper url by looking for and removing any “#” values and “javascripts” in the fetched urls. It also trims the required urls and stores then into the $parts array. The $parts data is then parsed using the value of $url and fetching the href it stores the complete path in $path.\n
+        H)	BuildUrlFromParts Module: This module fetches all the values from the $parts array, the href, the host name, the port etc and builds a url to be stored in the $new_href.\n
+        I)	GetHostFromUrl Module: This module parses the url, input by the user, compares it with a string of regular expressions and returns the value of the fetched host in the $host variable.\n
+        Module 2.\nMeta Title Crawler Module\n
+        	This module crawls the meta titles of the crawled urls. This data is then stored for later user-end display and website proficiency check and CTR Score.\n
+        Module 3.\n	Meta Description Crawler Module\n
+        	This module crawls the meta descriptions of the crawled urls. This data is then stored for later user-end display and website proficiency check and CTR Score.\n
+        Module 4.\nWebsite (User End) Module\n
+        	This is the front-end or the user end of the tool, which allows the user to directly input the url of whose CTR Score they want to analyse and data they want to fetch. It will display all the fetched data[url(s), meta title(s) and meta description(s)], with the CTR Score as well as a functionality of downloading the fetched data to the user.\n
 
     </string>
     <string name="module_eleven_it">
-       * Editor: Student can compile and run their code using editor on Coding Ground.\n
-       * Practice: Students can practice their coding skills in practice area.\n
-       * Signup: User can enter their credentials to get registered into the system.\n
-       * Login: User can login using their registered credentials.\n
-       * Homepage: User details will be shown on this web page.\n
+       Module 1.\n Editor: Student can compile and run their code using editor on Coding Ground.\n
+       Module 2.\n Practice: Students can practice their coding skills in practice area.\n
+       Module 3.\n Signup: User can enter their credentials to get registered into the system.\n
+       Module 4.\n Login: User can login using their registered credentials.\n
+       Module 5.\n Homepage: User details will be shown on this web page.\n
 
     </string>
     <string name="module_twelve_it">
-        1. Raspberry pi 3 model B : The Raspberry Pi 3  Model is the latest version of the Raspberry Pi, a tiny credit card size computer.\n
-2. GPS module : GPS is used to detect the Latitude and Longitude of any location on the Earth, with exact UTC time. GPS module is the main component in our vehicle tracking system project.\n
-3. UART module :This is a USB to Serial UART  converter module. It is allow you to connect your computer through USB port and use it as a regular serial communication.4. 16 GB class 10 micro SD card.
-In order to store the Raspbian operating system if you are using Raspberry pi 3. 16 GB class 10 micro SD card.\n
- 5. Jumper wires:
+        Module 1.\n Raspberry pi 3 model B : The Raspberry Pi 3  Model is the latest version of the Raspberry Pi, a tiny credit card size computer.\n
+       Module 2.\n  GPS module : GPS is used to detect the Latitude and Longitude of any location on the Earth, with exact UTC time. GPS module is the main component in our vehicle tracking system project.\n
+        Module 3.\n UART module :This is a USB to Serial UART  converter module. It is allow you to connect your computer through USB port and use it as a regular serial communication.4. 16 GB class 10 micro SD card.
+        In order to store the Raspbian operating system if you are using Raspberry pi 3. 16 GB class 10 micro SD card.\n
+      Module 4.\n  Jumper wires:
 For connecting the GPIO pins together.\n
-6.Raspberry pi OS:
+Module 5.\n Raspberry pi OS:
 Normally a raspberry pi uses rasping as an operating system it also uses a Debian based Linux operating system.\n
-7.Putty:
+Module 6.\n Putty:
 It is software which is used to interface the raspberry pi and laptop screen.\n
-8.	Filezilla:
+Module 7.\n 	Filezilla:
  FileZilla is a free software, cross-platform FTP application, consisting of FileZilla Client and FileZilla Server.\n
-9.	VNC Viewer:VNC Connect is screen sharing software that enables you to solve problems, help people and work remotely control remote computers as though sitting in front of them, at any time, from any device.\n
-10.	GPS Antenna: It's job is to convert the energy in the electromagnetic waves arriving from the satellites into an electric current that can be processed by the electronics in the receiver.\n
+Module 8.\n 	VNC Viewer:VNC Connect is screen sharing software that enables you to solve problems, help people and work remotely control remote computers as though sitting in front of them, at any time, from any device.\n
+Module 9.\n 	GPS Antenna: It's job is to convert the energy in the electromagnetic waves arriving from the satellites into an electric current that can be processed by the electronics in the receiver.\n
 
     </string>
     <string name="module_thirteen_it">
-        1.	Sqoop: To load data into SQL from CSV file and from the Hive and Pig results. It is basically used communicate with HDFS.\n
-2.	Pig: In this module we use pig to analyse the data like top 10 customer, top 10 companies, chain wise sales etc. As pig is a non SQL database therefore queries used in pig are different. All the work done in pig is in cache memory therefore all the results are temporary.\n
-3.	Hive: In this module we use hive to analyse the data like chain wise sales, top 10 brands etc. As hive uses HQL(hive Query Language) therefore all queries are written in hive shell.\n
+        Module 1.\n 	Sqoop: To load data into SQL from CSV file and from the Hive and Pig results. It is basically used communicate with HDFS.\n
+        Module 2.\n 	Pig: In this module we use pig to analyse the data like top 10 customer, top 10 companies, chain wise sales etc. As pig is a non SQL database therefore queries used in pig are different. All the work done in pig is in cache memory therefore all the results are temporary.\n
+        Module 3.\n 	Hive: In this module we use hive to analyse the data like chain wise sales, top 10 brands etc. As hive uses HQL(hive Query Language) therefore all queries are written in hive shell.\n
 
     </string>
     <string name="module_fourteen_it">
-            Microcontroller-
+           Module 1.\n  Microcontroller-
             We are using Arduino Nano microcontroller. As its name, Arduino Nano is a compact and breadboard-friendly version board based on ATmega328 processor.  The dimension of Arduino Nano is only 43mm x 18mm, it comes with 6 PWM I/O from the total of 14 digitals I/O, 8 Analog inputs, 16Mhz clock speed and 32kB of flash memory.
             This chip provide support to other peripheral devices and sensors. We can manipulate the working of other devices by using this microcontroller and we can change its functionality by its programme which is written in its Arduino application.\n
 
-            DHT sensors-
+            Module 2.\n DHT sensors-
             The DHT sensors are made of two parts, a capacitive humidity sensor and a thermistor. There is also a very basic chip inside that does some Analog to Digital conversion and spits out a digital signal with the humidity. This digital signal is fairly easy to read using any microcontroller.\n
 
-            Temperature Sensor-
+            Module 3.\n Temperature Sensor-
              We are using Lm35 Temperature. The LM35 series are precision integrated circuit LM35 temperature sensors, whose output voltage is linearly proportional to the temperature in Celsius (Centigrade). It measures the temperature of patient and sent that Analog readings to microcontroller.\n
 
-            Heart Beat Sensor-
+            Module 4.\n Heart Beat Sensor-
             Heart beat sensor is designed to give digital output of heart beat when a finger is placed inside it. This digital output can be connected to Arduino directly to measure the Beats per Minute (BPM) rate. It works on the principle of light modulation by blood flow through finger each pulse. IC LM358 is used for this sensor.\n
 
 
 
-            Wi-Fi-
+            Module 5.\n Wi-Fi-
             Wi-Fi is must in this project as  it helps in connectivity of health monitoring system to others like to the emergency contacts and regular updates to doctor and it is also used in sending data.\n
 
-            Web services-
+            Module 6.\n Web services-
             Amazon web service. Essentially AWS is Amazon’s cloud-computing platform.  It is providing services such as computing power database messaging and storage. With the help of this web service we can send alert message to the relatives of patient or doctor, when patient is critical. This cloud-computing platform will also work as our database, it will store the data like patient’s relative contacts, alert messages, health of patient, medicines schedule and other important data.\n
 
     </string>
     <string name="module_fifteen_it">
-        Android app module –  Helps to remotely  access the system and gives the control to the user even from a distance. Secured.\n
-Cloud based module-  Connects the sensors to the website and helps map the analog signals digitally. Helps to let you analyze and visualize your data and act on it.\n
-Microprocessor Arduino Nano module- Sensor data can be sent to ThingSpeak from Arduino. It is used to program the sensors and make them react according to certain specified conditions. It is known to add “life” to the hardware.\n
-WiFi module-  Gives  any microcontroller access to your WiFi network. Interfaces the analog and digital data and takes commands from arduino nano.\n
-Soil moisture sensing module- Helps monitor the level of moisture in soil that’s favorable to the plant which cant manually be tested.\n
-Digital humidity temperature sensing module- DHT11 is a low cost humidity and temperature sensor that reacts to changes in these parameters according to reference values.\n
-Rainfall sensing module- Switching device activated by rainfall\n
+        Module 1.\n  Android app module –  Helps to remotely  access the system and gives the control to the user even from a distance. Secured.\n
+        Module 2.\n  Cloud based module-  Connects the sensors to the website and helps map the analog signals digitally. Helps to let you analyze and visualize your data and act on it.\n
+        Module 3.\n Microprocessor Arduino Nano module- Sensor data can be sent to ThingSpeak from Arduino. It is used to program the sensors and make them react according to certain specified conditions. It is known to add “life” to the hardware.\n
+        Module 4.\n WiFi module-  Gives  any microcontroller access to your WiFi network. Interfaces the analog and digital data and takes commands from arduino nano.\n
+        Module 5.\n Soil moisture sensing module- Helps monitor the level of moisture in soil that’s favorable to the plant which cant manually be tested.\n
+        Module 6.\n Digital humidity temperature sensing module- DHT11 is a low cost humidity and temperature sensor that reacts to changes in these parameters according to reference values.\n
+        Module 7.\n Rainfall sensing module- Switching device activated by rainfall\n
 
     </string>
     <string name="module_sixteen_it">
         The implementation is done using Java based desktop application which is used to scan a card which is nothing but a RFID card that is assigned to the student and the same system is used to store and process student related information using barcode scanner.\n
 Functionality of our Student Smart Card System-\n
--	Admin Module\n
+Module 1.\n 	Admin Module\n
 The admin can login and can refill the balance of the student’s card. The admin can also access the other information of students:\n
 Student’s payment related information.\n
  Student’s attendance related information.\n
  Other common admin features\n
 
--	Student Module-
+Module 2.\n Student Module-
 The Student can login and view balance and last five transactions which will help him to be aware of his card balance and accordingly refill it whenever required.\n
 
--	 Account maintenance-
+Module 3.\n  Account maintenance-
 The admin is responsible for maintaining the accounts of the students holding the card.\n
 
--	 ID scanning-
+Module 4.\n  ID scanning-
 The card is being scanned to deduct cash amount from the user's account or get the student's important documents or mark the attendance.\n
--	 Payment in cafeteria –
+Module 5.\n  Payment in cafeteria –
 This ID on the card can be scanned to pay for the food items purchased in cafeteria.\n
--	Payment for parking and Document Carrier –
+Module 6.\n Payment for parking and Document Carrier –
 The card can also be used to pay for parking.The card's unique ID can be used to retrieve the important documents (results,) of the student stored on the server. Thus the student doesn’t have to carry the hardcopy of the documents always.\n
--	 College Entry –Card will be used as an entry pass for the college entrance\n
+Module 7.\n  College Entry –Card will be used as an entry pass for the college entrance\n
 
     </string>
     <string name="module_seventeen_it">
-            Steganocoder: This module "hides" a message within an image that the user provides. The final output is an image file that contains the message protected by encryption and encoding.\n
-            Steganocoder_rand : This module is an upgrade to the STEGANCODER Function b/c the message is hidden randomly across pixels within the target "canvas" image. The STEGANCODER Function sequentially "hides" the message. It has been demonstrated that sequential encoding makes the message far easier to detect and recover.\n
-            Sender : This module encrypts and hide message to a canvas image.\n
-            Receiver : This module decrypts and extracts the message from hidden image.\n
-            Receiver_img_to_img : This module extract image message from hidden image.\n
-            Receiver_img_to_text : this module extract text message from hidden image.
+            Module 1.\n Steganocoder: This module "hides" a message within an image that the user provides. The final output is an image file that contains the message protected by encryption and encoding.\n
+            Module 2.\n Steganocoder_rand : This module is an upgrade to the STEGANCODER Function b/c the message is hidden randomly across pixels within the target "canvas" image. The STEGANCODER Function sequentially "hides" the message. It has been demonstrated that sequential encoding makes the message far easier to detect and recover.\n
+            Module 3.\n Sender : This module encrypts and hide message to a canvas image.\n
+            Module 4.\n Receiver : This module decrypts and extracts the message from hidden image.\n
+            Module 5.\n Receiver_img_to_img : This module extract image message from hidden image.\n
+            Module 6.\n Receiver_img_to_text : this module extract text message from hidden image.
 
     </string>
     <string name="module_eighteen_it">
-            1. Nowdays information security is becoming important in data storage and transmission. It is important to hide the important information which we are doing through modified playfair cipher. Our first module is about this.\n
-            2. In this method we are using 6X6 matrix to perform the encryption and decryption. The matrix includes both numbers and letters. Hence, making it difficult to decrypt the hidden information\n
-            3. Modified Playfair cipher can be used in 2 ways hence it enhances the security.\n
-            4. The modified playfair cipher can be extended further and we can also use 10X9 matrix which includes the special characters even.\n
-            5. The cipher is easy to implement and earlier we applied brute force and frequency analysis on it.\n
-            6.Image steganography is the technique of hiding the data in image in such a way that prevents the unintended user to detect the hidden message or data.\n
-            7. This technique is used to hide passwords and encryption technique and is also used to transfer the hidden messages.\n
-            8. A common approach of hiding the data within image file is least bit substitution in which binary representation of hidden data is taken and then we overwrite the LSB of each byte within the cover image.\n
+            Module 1.\n  Nowdays information security is becoming important in data storage and transmission. It is important to hide the important information which we are doing through modified playfair cipher. Our first module is about this.\n
+            Module 2.\n  In this method we are using 6X6 matrix to perform the encryption and decryption. The matrix includes both numbers and letters. Hence, making it difficult to decrypt the hidden information\n
+            Module 3.\n  Modified Playfair cipher can be used in 2 ways hence it enhances the security.\n
+            Module 4.\n  The modified playfair cipher can be extended further and we can also use 10X9 matrix which includes the special characters even.\n
+            Module 5.\n  The cipher is easy to implement and earlier we applied brute force and frequency analysis on it.\n
+            Module 6.\n Image steganography is the technique of hiding the data in image in such a way that prevents the unintended user to detect the hidden message or data.\n
+            Module 7.\n  This technique is used to hide passwords and encryption technique and is also used to transfer the hidden messages.\n
+            Module 8.\n  A common approach of hiding the data within image file is least bit substitution in which binary representation of hidden data is taken and then we overwrite the LSB of each byte within the cover image.\n
 
     </string>
+    <string name="module_ninteen_it">
+        Module 1.\n-coinmarketcap api used for getting data about changing rates\n
+        Module 2.\ncryptocurrencychart api for representation\n
+        Module 3.\ngraphs of market cap\n
+        Module 4.\nnewsapi for news from different countries on currencies\n
+        Module 5.\nxhr\n
+        Module 6.\ncors\n
+        Module 7.\nnotification\n
+        Module 8.\nreal time price checking\n
+        Module 9.\nsignup and login feature\n
+        Module 10.\nkeeping record of all coins of the user\n
+    </string>
+    <string name="module_twenty_it">
+    Module 1.\n Idea of project\n
+    Module 2.\n Components list\n
+    Module 3.\n Circuit diagram\n
+    Module 4.\n Purchasing components\n
+    Module 5.\n Designing pcb\n
+    Module 6.\n Assemble components\n
+    Module 7.\nTest the soldering dry or not\n
+    Module 8.\n Designing code in embedded C language\n
+    Module 9.\n Programming IC\n
+    Module 10.\nTesting of features\n
+    </string>
+    <string name="module_twentyone_it">
+        Module 1.\n	Txttocsv.py\n
+        Module 2.\n	Word2vec.py\n
+        Module 3.\nWord2vecgenism.py\n
+        Feeding the word 2 vector with related corpus that would like to find analogies with so that it would probably find good analogies between similar words.\n
+        Module 4.\nSdata.py\n
+        SICK dataset is a corpus which is trained to find similaritiesbetween words combonation,which is tested by MIKOLOV TESTSET(contains countries with capital names)\n
+        Module 5.\nBdata.py\n
+        IMBD data set,which we have feed in the input to check the word similarity both in the case of unigram and bigram tested by MIKOLOV test set.\n
+        Module 6.\nSwordsim.py\n
+        TCK data set tested by word sim test set.\n
+        Module 7.\nBwordsim.py\n
+        IMBD data set tested by TURNEY TESTSET.
+ </string>
+    <string name="module_twentytwo_it">We monitor data access in the cloud and detect abnormal data access patterns User profiling is a
+well known Technique that can be applied here to model how, when, and how much a user
+accesses their information in the Cloud. Such ‘normal user’ behavior can be continuously
+checked to determine whether abnormal access to a user’s information is occurring. This method
+of behavior-based security is commonly used in fraud detection applications. Such profiles
+would naturally include volumetric information, how many documents are typically read and
+how often. We monitor for abnormal search behaviors that exhibit deviations from the user
+baseline the correlation of search behavior anomaly detection with trap-based decoy files should
+provide stronger evidence of malfeasance, and therefore improve a detector’s accuracy.
+Cloud computing is a model for enabling convenient, on demand network access to a shared pool
+of configurable computing resources (for example, networks, servers, storage, applications, and
+services) that can be rapidly provisioned and released with minimal management effort or
+service-provider interaction. We propose a different approach for securing data in the cloud
+using offensive decoy technology. We monitor data access in the cloud and detect abnormal data
+access patterns. We launch a disinformation attack by returning large amounts of decoy
+information to the attacker. This protects against the misuse of the user’s real data. We use this
+technology to launch disinformation attacks against malicious insiders, preventing them from
+distinguishing the real sensitive customer data from fake worthless data the decoys, then, serve
+two purposes:\n
+(1) Validating whether data access is authorized when abnormal information access is detected.\n
+(2) Confusing the attacker with bogus information.</string>
+    <string name="module_twentythree_it">
+        Module 1.\n Weather: it will provide user with the real time weather update.\n
+        Module 2.\n QR code: it will allow user to connect there Android device to the guide on app by just simply scanning the QR code.\n
+        Module 3.\n Chat bubble R: it will allow you to type in your query in the app and it will appear on right side.\n
+        Module 4.\n Chatbubble L: it will allow assistant to reply to your query and details appear on left.\n
+        Module 5.\n Chat flow: page on which the whole chat with appear.\n
+        Module 6.\n Facebook login : allow user to login via Facebook.\n
+        Module 7.\n News strip: it will allow user to fetch news.\n
+        Module 8.\n Imdb panel: it will give IMDb rating of a particular movie.\n
+        Module 9.\nGoogle strip: direct your search result to Google homepage.\n
+        Module 10.\n Game panel: it will allow user to run any game which is on the system by making voice command.\n
+</string>
+    <string name="module_twentyfour_it">
+    Module 1.\n	PCB :Board on which the components are assembled.\n
+Module 2.\n	Microcontroller : A low power, high performance,CMOS 8 bit with 40 pin (89s52).\n
+Module 3.\n	DC Pump: A pump used which is operated on 9 volt.\n
+Module 4.\n	Heat Sensor : Sensor used of tungsten material because as soon as it gets temperature it spreads in vicinity.\n
+Module 5.\n	Variable resistance preferably 103 ohms is used.\n
+Module 6.\n	Capacitors: 30 Pico farad ceramic capacitor is used.\n
+Module 7.\n	PN junction diode : 1N4007 pn junction diode used as 1N4007 diode is electrically compatible with other rectifier diodes, and can be used as a replacement for any diode in the 1N400x family.\n
+Module 8.\n	Dc Gear motor :Operated on 9 volt at 60 Revolution per minute.\n
+Module 9.\n	Darlanting amplifier : connected to motor.\n
+Module 10.\n	Circuit is forward biased.\n
+
+    </string>
+    <string name="module_twentyfive_it">
+        Module 1.\n	Kalman filtering: It is an algorithm that uses a series of measurements observed over time, containing statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more accurate than those based on a single measurement alone.\n
+
+Module 2.\n	Creating A GUI: GUIDE (GUI development environment) provides tools to design user interfaces for custom apps.\n
+
+Module 3.\nInvariants: These are especially useful when reasoning about whether a computer program is correct.\n
+
+Module 4.\nImage Type: It is a particular method of associating matrix values with pixel colors.\n
+
+Module 5.\n	True Color Image: In a truecolor image, every image pixel has three values associated with it: the red, green, and blue components.\n
+
+Module 6.\nIndexed Image: It is the image matrix values do not determine the pixel colors directly. Instead, MATLAB uses the matrix values as indices for looking up colors in the figures colormap.\n
+
+Module 7.\nScaled Indexed Image: It is a scaled indexed image uses matrix values to look up colors in the figure’s colormap.\n
+
+Module 8.\nGrayscale Images: It contains only brightness information. A grayscale image is a scaled indexed image that uses a grayscale colormap.\n
+
+Module 9.\nIntensity: It is a numerical value which represents a pixel, i.e. for a 8-bit gray scale image the value of a pixel can be in the range of [0,255], where (generally) numerical “0” represents black color and numerical “255” represents white color.\n
+
+Module 10.\n	Brightness: It is a relative term which can be understood visually. If two pixels (say, pixel1 and pixel2) of an image have intensity values, 125 and 210 respectively, then pixel2 is brighter than pixel1:\n
+</string>
+    <string name="module_twentysix_it">
+        Module  1.\n Arduino and  Arduino IDE: The Arduino Uno is a microcontroller board based on the ATmega328 (datasheet). It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz ceramic resonator, a USB connection, a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.\n
+        Module  2.\n Relay board:  A relay is an electrical device which is generally used to control high voltages using very low voltage as an Input. This consists of a coil wrapped around a pole and a two small metal flaps(nodes) that are used to close the circuit. One of the node is fixed and other is movable. Whenever an electricity is passed through the coil, it creates a magnetic field and attracts the moving node towards the static node and the circuit gets completed. So, just by applying small voltage to power up the coil we can actually complete the circuit for the high voltage to travel.\n
+        Module 3.\n Visual Studio for C# : Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as web sites, web apps, web services and mobile apps.  Visual Studio includes a code editor supporting IntelliSense (the code completion component) as well as code refactoring. The integrated debugger works both as a source-level debugger and a machine-level debugger. Other built-in tools include a code profiler, forms designer for building GUI applications, web designer, class designer, and database schema designer. It accepts plug-ins that enhance the functionality at almost every level.Visual studio is used to run the C# software for Speech Recognition. Speech recognition is the inter-disciplinary sub-field of computational linguistics that develops methodologies and technologies that enables the recognition and translation of spoken language into text by computers. It is also known as "automatic speech recognition" (ASR), "computer speech recognition", or just "speech to text" (STT).  Some speech recognition systems require "training" (also called "enrollment") where an individual speaker reads text or isolated vocabulary into the system. The system analyzes the person's specific voice and uses it to fine-tune the recognition of that person's speech, resulting in increased accuracy.\n
+ 
+
+    </string>
+    <string name="module_twentyseven_it">
+        Modules are not disclosed yet </string>
+    <!--<string name="module_twentyeight_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_twentynine_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_thirty_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_thirtyone_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_thirtytwo_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_thirtythree_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_thirtyfour_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_thirtyfive_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_thirtysix_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_thirtyseven_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_thirtyeight_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_thirtynine_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_fourty_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_fourtyone_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_fourtytwo_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_fourtythree_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_fourtyfour_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_fourtyfive_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_fourtysix_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_fourtyseven_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_fourtyeight_it">Enhancing security of image and text </string>-->
+    <!--<string name="module_fourtynine_it">Enhancing security of image and text </string>-->
 
 </resources>

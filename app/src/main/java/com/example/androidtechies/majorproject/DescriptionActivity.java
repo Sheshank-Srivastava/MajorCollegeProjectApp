@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.widget.TextView;
@@ -21,6 +22,7 @@ public class DescriptionActivity extends AppCompatActivity {
     CollapsingToolbarLayout cToolBar;
     @BindView(R.id.projectModule)
     TextView modulein;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,7 +45,6 @@ public class DescriptionActivity extends AppCompatActivity {
         modulein.setText(module);
         modulein.setTextSize(20f);
         cToolBar.setTitle(title);
-
 
     }
 }

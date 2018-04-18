@@ -3,13 +3,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/colorPrimary"
+
     android:gravity="center" >
+
         <ImageView
             android:id="@+id/splashIcon"
-            android:layout_width="200dp"
-            android:layout_height="200dp"
-            android:src="@drawable/projecticon" />
+            android:layout_width="187dp"
+            android:layout_height="176dp"
+            android:src="@drawable/atlogo"
+            android:scaleType="centerInside"/>
         <TextView
             android:id="@+id/projectName"
             android:layout_width="wrap_content"

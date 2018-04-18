@@ -23,9 +23,15 @@
         <item>@string/title_sixteen_it</item>
         <item>@string/title_seventeen_it</item>
         <item>@string/title_eighteen_it</item>
-
-
-
+        <item>@string/title_ninteen_it</item>
+        <item>@string/title_twenty_it</item>
+        <item>@string/title_twentyone_it</item>
+        <item>@string/title_twentytwo_it</item>
+        <item>@string/title_twentythree_it</item>
+        <item>@string/title_twentyfour_it</item>
+        <item>@string/title_twentyfive_it</item>
+        <item>@string/title_twentysix_it</item>
+        <item>@string/title_twentyseven_it</item>
     </string-array>
 
     <string-array name="project_introduction_it">
@@ -47,6 +53,15 @@
         <item>@string/intro_sixteen_it</item>
         <item>@string/intro_seventeen_it</item>
         <item>@string/intro_eighteen_it</item>
+        <item>@string/intro_ninteen_it</item>
+        <item>@string/intro_twenty_it</item>
+        <item>@string/intro_twentyone_it</item>
+        <item>@string/intro_twentytwo_it</item>
+        <item>@string/intro_twentythree_it</item>
+        <item>@string/intro_twentyfour_it</item>
+        <item>@string/intro_twentyfive_it</item>
+        <item>@string/intro_twentysix_it</item>
+        <item>@string/intro_twentyseven_it</item>
     </string-array>
 
     <string-array name="project_technology_used_it">
@@ -68,6 +83,15 @@
         <item>@string/techno_sixteen_it</item>
         <item>@string/techno_seventeen_it</item>
         <item>@string/techno_eighteen_it</item>
+        <item>@string/techno_ninteen_it</item>
+        <item>@string/techno_twenty_it</item>
+        <item>@string/techno_twentyone_it</item>
+        <item>@string/techno_twentytwo_it</item>
+        <item>@string/techno_twentythree_it</item>
+        <item>@string/techno_twentyfour_it</item>
+        <item>@string/techno_twentyfive_it</item>
+        <item>@string/techno_twentysix_it</item>
+        <item>@string/techno_twentyseven_it</item>
     </string-array>
     <string-array name="project_module_it">
         <item>@string/module_one_it</item>
@@ -88,13 +112,22 @@
         <item>@string/module_sixteen_it</item>
         <item>@string/module_seventeen_it</item>
         <item>@string/module_eighteen_it</item>
+        <item>@string/module_ninteen_it</item>
+        <item>@string/module_twenty_it</item>
+        <item>@string/module_twentyone_it</item>
+        <item>@string/module_twentytwo_it</item>
+        <item>@string/module_twentythree_it</item>
+        <item>@string/module_twentyfour_it</item>
+        <item>@string/module_twentyfive_it</item>
+        <item>@string/module_twentysix_it</item>
+        <item>@string/module_twentyseven_it</item>
     </string-array>
 
 
     <!--&lt;!&ndash;CSE Data &ndash;&gt;-->
 
-    <!--<string-array name="project_title_cse">-->
-        <!--<item>@string/title_one_cse</item>-->
+    <!--<string-array name="project_techno_cse">-->
+        <!--<item>@string/techno_one_cse</item>-->
         <!--<item>@string/title_two_cse</item>-->
         <!--<item>@string/title_three_cse</item>-->
         <!--<item>@string/title_four_cse</item>-->

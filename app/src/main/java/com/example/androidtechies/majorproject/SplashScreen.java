@@ -26,7 +26,7 @@ private ImageView imageView;
                 Intent branch = new Intent(SplashScreen.this,HomeScreen.class);
                 startActivity(branch);
             }
-        },1000);
+        },2000);
     }
 
 }
